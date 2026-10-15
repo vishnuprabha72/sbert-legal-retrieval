@@ -1,0 +1,53 @@
+[project]
+name = "sbertfinetuning-legal"
+version = "0.1.0"
+description = "Dataset construction, SBERT fine-tuning and evaluation for Indian legal paragraph retrieval (JURIX 2026)"
+requires-python = ">=3.10"
+dependencies = [
+    "sentence-transformers>=3.0.0",
+    "transformers>=4.40.0",   # already a transitive dep of sentence-transformers, but now imported
+                              # directly in stage5_train_sbert.py (get_linear_schedule_with_warmup for
+                              # the chunk-pool manual training loop), so made explicit
+    "datasets>=2.19.0",
+    "accelerate>=1.1.0",
+    "torch==2.6.0",
+    "pandas>=2.2.0",
+    "pyarrow>=15.0.0",
+    "scikit-learn>=1.4.0",
+    "pyyaml>=6.0",
+    "tqdm>=4.66.0",
+    "numpy>=1.26.0",
+    "ibm-watsonx-ai>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "rank-bm25>=0.2.2",
+    "matplotlib>=3.8.0",   # plot_training_curves.py, learning_curve.py
+]
+
+[project.optional-dependencies]
+dev = ["jupyter", "ipykernel", "debugpy"]
+review = ["streamlit>=1.35.0", "jinja2>=3.1.0"]
+eval = ["streamlit>=1.35.0", "nltk>=3.8", "pdfplumber>=0.11.0"]   # evaluation/*_app.py
+
+[tool.uv]
+package = false
+
+# CPU-only torch, pinned to an exact version. Newer torch releases pull in a
+# different CUDA dependency layout that broke our environment; the CPU wheel
+# of 2.6.0 has no CUDA/NCCL/cuDNN dependencies at all.
+#
+# For GPU training, change the url below to
+# https://download.pytorch.org/whl/cu124 (or whichever cuXXX index matches
+# `nvidia-smi`'s reported CUDA Version), then run:
+#   rm uv.lock && uv sync
+# (deleting uv.lock is required -- a plain `uv sync` reuses the existing
+# lock file's resolution and will NOT pick up an index/source change on
+# its own.)
+[tool.uv.sources]
+torch = [
+  { index = "pytorch-cpu" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true

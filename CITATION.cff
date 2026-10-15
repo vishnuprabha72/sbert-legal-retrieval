@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "sbert-legal-retrieval: code for 'Why Semantic Search Struggles with Legal Text'"
+authors:
+  - family-names: "V"
+    given-names: "Vishnuprabha"
+    affiliation: "Cochin University of Science and Technology (CUSAT)"
+  - family-names: "Viswanathan"
+    given-names: "Daleesha M"
+    affiliation: "Cochin University of Science and Technology (CUSAT)"
+  - family-names: "R"
+    given-names: "Rajesh"
+    affiliation: "Naval Physical and Oceanographic Laboratory (NPOL)"
+  - family-names: "Unnikrishnan"
+    given-names: "Aarshitha"
+    affiliation: "National University of Advanced Legal Studies (NUALS)"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Why Semantic Search Struggles with Legal Text: A Diagnostic Study of Indian Case-Law Retrieval"
+  authors:
+    - family-names: "V"
+      given-names: "Vishnuprabha"
+    - family-names: "Viswanathan"
+      given-names: "Daleesha M"
+    - family-names: "R"
+      given-names: "Rajesh"
+    - family-names: "Unnikrishnan"
+      given-names: "Aarshitha"
+  collection-title: "Legal Knowledge and Information Systems (JURIX 2026)"
+  year: 2026

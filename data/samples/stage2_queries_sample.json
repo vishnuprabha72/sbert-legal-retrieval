@@ -1,0 +1,1260 @@
+[
+  {
+    "summary_field": "Facts",
+    "summary_role": "FACT",
+    "summary_sentence": "The Petitioner appealed against the decision of the Armed Forces Tribunal, Regional Bench, Lucknow, which set aside the order of dismissal of the Respondent.",
+    "segment_id": "seg_0000",
+    "segment_role": "FACT",
+    "segment_text": "1. The order of dismissal of the Respondent was set aside by the judgment of the Armed Forces Tribunal, Regional Bench, Lucknow (hereinafter, ‘the Tribunal’), aggrieved by which this Appeal is filed. 2. The Respondent was enrolled as a Soldier in 20 Jat Firing Team which was attached to the Jat Regimental Centre, Bareilly on 25.02.1999. A firing incident took place at around 8.45 a.m. on 02.10.2004, when the team was practicing firing at the Jat Regimental Centre. During the incident, Havildar Harpal and the Respondent sustained gunshot injuries. Havildar Harpal succumbed to the bullet injuries and the Respondent was admitted at the hospital due to injuries. A First Information Report was lodged at the Police Station, Sadar Cantonment, Bareilly. A preliminary investigation was initiated by the Staff Court of Inquiry as per the directions of the Station Headquarters, Bareilly which concluded on 25.11.2004. The General Officer Commanding 22 Infantry Division directed: a)disciplinary action to be initiated against the Respondent for causing the death of late Havildar Harpal and for attempting to commit suicide. b)to counsel Lt. Rajiv Menon for not implementing the relevant instructions during the conduct of firing practices at the ranges. c)Late Havildar Harpal of 20 Jat Regiment was directed to be treated on bona fide Government duty and his death was held attributable to military service in peace.",
+    "role_match": true,
+    "similarity_score": 0.4653,
+    "cosine_score": 0.4653,
+    "bm25_score": 23.7934,
+    "fused_score": 0.036463,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "armed forces tribunal appeal procedures",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the grounds for appealing an armed forces tribunal decision?",
+        "word_count": 11,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances can a petitioner appeal against the decision of the Armed Forces Tribunal regarding the dismissal of a respondent, specifically with regards to disciplinary actions and military service-related incidents?",
+        "word_count": 31,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Facts",
+    "summary_role": "FACT",
+    "summary_sentence": "The Respondent was enrolled as a soldier and was involved in a firing incident that resulted in the death of Havildar Harpal.",
+    "segment_id": "seg_0000",
+    "segment_role": "FACT",
+    "segment_text": "1. The order of dismissal of the Respondent was set aside by the judgment of the Armed Forces Tribunal, Regional Bench, Lucknow (hereinafter, ‘the Tribunal’), aggrieved by which this Appeal is filed. 2. The Respondent was enrolled as a Soldier in 20 Jat Firing Team which was attached to the Jat Regimental Centre, Bareilly on 25.02.1999. A firing incident took place at around 8.45 a.m. on 02.10.2004, when the team was practicing firing at the Jat Regimental Centre. During the incident, Havildar Harpal and the Respondent sustained gunshot injuries. Havildar Harpal succumbed to the bullet injuries and the Respondent was admitted at the hospital due to injuries. A First Information Report was lodged at the Police Station, Sadar Cantonment, Bareilly. A preliminary investigation was initiated by the Staff Court of Inquiry as per the directions of the Station Headquarters, Bareilly which concluded on 25.11.2004. The General Officer Commanding 22 Infantry Division directed: a)disciplinary action to be initiated against the Respondent for causing the death of late Havildar Harpal and for attempting to commit suicide. b)to counsel Lt. Rajiv Menon for not implementing the relevant instructions during the conduct of firing practices at the ranges. c)Late Havildar Harpal of 20 Jat Regiment was directed to be treated on bona fide Government duty and his death was held attributable to military service in peace.",
+    "role_match": true,
+    "similarity_score": 0.7854,
+    "cosine_score": 0.7854,
+    "bm25_score": 28.3689,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "military personnel accidental firing liability cases",
+        "word_count": 6,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the legal implications of a firing incident in the military?",
+        "word_count": 12,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances can a soldier be held liable for the death of a fellow soldier during a firing incident under military law and what are the relevant procedures for investigating such incidents?",
+        "word_count": 33,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Facts",
+    "summary_role": "FACT",
+    "summary_sentence": "A Court of Inquiry was initiated, and the Respondent was examined as a witness.",
+    "segment_id": "seg_0000",
+    "segment_role": "FACT",
+    "segment_text": "1. The order of dismissal of the Respondent was set aside by the judgment of the Armed Forces Tribunal, Regional Bench, Lucknow (hereinafter, ‘the Tribunal’), aggrieved by which this Appeal is filed. 2. The Respondent was enrolled as a Soldier in 20 Jat Firing Team which was attached to the Jat Regimental Centre, Bareilly on 25.02.1999. A firing incident took place at around 8.45 a.m. on 02.10.2004, when the team was practicing firing at the Jat Regimental Centre. During the incident, Havildar Harpal and the Respondent sustained gunshot injuries. Havildar Harpal succumbed to the bullet injuries and the Respondent was admitted at the hospital due to injuries. A First Information Report was lodged at the Police Station, Sadar Cantonment, Bareilly. A preliminary investigation was initiated by the Staff Court of Inquiry as per the directions of the Station Headquarters, Bareilly which concluded on 25.11.2004. The General Officer Commanding 22 Infantry Division directed: a)disciplinary action to be initiated against the Respondent for causing the death of late Havildar Harpal and for attempting to commit suicide. b)to counsel Lt. Rajiv Menon for not implementing the relevant instructions during the conduct of firing practices at the ranges. c)Late Havildar Harpal of 20 Jat Regiment was directed to be treated on bona fide Government duty and his death was held attributable to military service in peace.",
+    "role_match": true,
+    "similarity_score": 0.2899,
+    "cosine_score": 0.2899,
+    "bm25_score": 10.339,
+    "fused_score": 0.03449,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Court of Inquiry procedures and protocols",
+        "word_count": 6,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What is the purpose of a Court of Inquiry in military proceedings?",
+        "word_count": 12,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances can a Court of Inquiry be initiated in relation to a military incident and what are the implications for disciplinary action against military personnel?",
+        "word_count": 27,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Facts",
+    "summary_role": "FACT",
+    "summary_sentence": "Later, the Respondent was charged with the murder of Havildar Harpal and attempting to commit suicide.",
+    "segment_id": "seg_0001",
+    "segment_role": "FACT",
+    "segment_text": "3. The Respondent was kept in close arrest w.e.f. 27.11.2004 and was handed over to 7 Kumaon Regiment under the authority of Headquarters 49 Infantry Brigade. On 28.12.2004, the Respondent was tentatively charged with the murder of Havildar Harpal under Section 302 IPC read with Section 69 of the Army Act, 1950 (for short “the Act”) and under Section 64(c) of the Act for attempting to commit suicide. 21 witnesses were examined in the summary of evidence and the Respondent was given an opportunity to cross-examine the witnesses, which he declined. He was given an opportunity to make additional statement, which was also declined. Further opportunity given to him to adduce evidence was also not availed by the Respondent. Summary of evidence concluded on 07.02.2005. Additional summary of evidence was also recorded, which was completed on 03.06.2005. The General Court Martial commenced on 28.11.2005, and the trial was concluded on 16.03.2006. The General Court Martial convicted the Respondent under Section 302 IPC for the murder of Havildar Harpal and for attempting to commit suicide. The Respondent was sentenced to suffer imprisonment for life and to be dismissed from service. The statutory complaint filed by the Respondent was rejected by the Chief of the Army Staff on 16.03.2007. The validity of the order of the General Court Martial dated 16.03.2006 and the order of the Chief of the Army Staff dated 16.03.2007, rejecting the statutory complaint were assailed before the Tribunal.",
+    "role_match": true,
+    "similarity_score": 0.7207,
+    "cosine_score": 0.7207,
+    "bm25_score": 22.3276,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Army Act Section 302 charges",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the procedures for charging a soldier with murder under the Army Act?",
+        "word_count": 14,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Procedures under the Army Act 1950 for handling murder charges and attempted suicide under Sections 302 IPC and 64c",
+        "word_count": 19,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Facts",
+    "summary_role": "FACT",
+    "summary_sentence": "The General Court Martial convicted the Respondent and sentenced him to imprisonment for life and dismissal from service.",
+    "segment_id": "seg_0001",
+    "segment_role": "FACT",
+    "segment_text": "3. The Respondent was kept in close arrest w.e.f. 27.11.2004 and was handed over to 7 Kumaon Regiment under the authority of Headquarters 49 Infantry Brigade. On 28.12.2004, the Respondent was tentatively charged with the murder of Havildar Harpal under Section 302 IPC read with Section 69 of the Army Act, 1950 (for short “the Act”) and under Section 64(c) of the Act for attempting to commit suicide. 21 witnesses were examined in the summary of evidence and the Respondent was given an opportunity to cross-examine the witnesses, which he declined. He was given an opportunity to make additional statement, which was also declined. Further opportunity given to him to adduce evidence was also not availed by the Respondent. Summary of evidence concluded on 07.02.2005. Additional summary of evidence was also recorded, which was completed on 03.06.2005. The General Court Martial commenced on 28.11.2005, and the trial was concluded on 16.03.2006. The General Court Martial convicted the Respondent under Section 302 IPC for the murder of Havildar Harpal and for attempting to commit suicide. The Respondent was sentenced to suffer imprisonment for life and to be dismissed from service. The statutory complaint filed by the Respondent was rejected by the Chief of the Army Staff on 16.03.2007. The validity of the order of the General Court Martial dated 16.03.2006 and the order of the Chief of the Army Staff dated 16.03.2007, rejecting the statutory complaint were assailed before the Tribunal.",
+    "role_match": true,
+    "similarity_score": 0.5267,
+    "cosine_score": 0.5267,
+    "bm25_score": 18.2386,
+    "fused_score": 0.037441,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "General Court Martial conviction procedures",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What is the process for a General Court Martial conviction appeal?",
+        "word_count": 11,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "How does the General Court Martial sentencing procedure work under the Army Act, specifically for convictions under Section 302 IPC?",
+        "word_count": 20,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Facts",
+    "summary_role": "FACT",
+    "summary_sentence": "The Respondent challenged the order before the Tribunal, which set aside the order of the General Court Martial.",
+    "segment_id": "seg_0001",
+    "segment_role": "FACT",
+    "segment_text": "3. The Respondent was kept in close arrest w.e.f. 27.11.2004 and was handed over to 7 Kumaon Regiment under the authority of Headquarters 49 Infantry Brigade. On 28.12.2004, the Respondent was tentatively charged with the murder of Havildar Harpal under Section 302 IPC read with Section 69 of the Army Act, 1950 (for short “the Act”) and under Section 64(c) of the Act for attempting to commit suicide. 21 witnesses were examined in the summary of evidence and the Respondent was given an opportunity to cross-examine the witnesses, which he declined. He was given an opportunity to make additional statement, which was also declined. Further opportunity given to him to adduce evidence was also not availed by the Respondent. Summary of evidence concluded on 07.02.2005. Additional summary of evidence was also recorded, which was completed on 03.06.2005. The General Court Martial commenced on 28.11.2005, and the trial was concluded on 16.03.2006. The General Court Martial convicted the Respondent under Section 302 IPC for the murder of Havildar Harpal and for attempting to commit suicide. The Respondent was sentenced to suffer imprisonment for life and to be dismissed from service. The statutory complaint filed by the Respondent was rejected by the Chief of the Army Staff on 16.03.2007. The validity of the order of the General Court Martial dated 16.03.2006 and the order of the Chief of the Army Staff dated 16.03.2007, rejecting the statutory complaint were assailed before the Tribunal.",
+    "role_match": true,
+    "similarity_score": 0.3802,
+    "cosine_score": 0.3802,
+    "bm25_score": 10.9163,
+    "fused_score": 0.03468,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "General Court Martial appeals process",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the grounds for challenging a General Court Martial order?",
+        "word_count": 11,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances can a respondent challenge the order of a General Court Martial and have it set aside by the Tribunal, specifically with regard to the Army Act 1950 and the procedure for summary of evidence and statutory complaints?",
+        "word_count": 40,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Facts",
+    "summary_role": "FACT",
+    "summary_sentence": "The Tribunal held that the entire trial against the Respondent was vitiated due to non-compliance with Rule 180 of the Army Rules.",
+    "segment_id": "seg_0000",
+    "segment_role": "FACT",
+    "segment_text": "1. The order of dismissal of the Respondent was set aside by the judgment of the Armed Forces Tribunal, Regional Bench, Lucknow (hereinafter, ‘the Tribunal’), aggrieved by which this Appeal is filed. 2. The Respondent was enrolled as a Soldier in 20 Jat Firing Team which was attached to the Jat Regimental Centre, Bareilly on 25.02.1999. A firing incident took place at around 8.45 a.m. on 02.10.2004, when the team was practicing firing at the Jat Regimental Centre. During the incident, Havildar Harpal and the Respondent sustained gunshot injuries. Havildar Harpal succumbed to the bullet injuries and the Respondent was admitted at the hospital due to injuries. A First Information Report was lodged at the Police Station, Sadar Cantonment, Bareilly. A preliminary investigation was initiated by the Staff Court of Inquiry as per the directions of the Station Headquarters, Bareilly which concluded on 25.11.2004. The General Officer Commanding 22 Infantry Division directed: a)disciplinary action to be initiated against the Respondent for causing the death of late Havildar Harpal and for attempting to commit suicide. b)to counsel Lt. Rajiv Menon for not implementing the relevant instructions during the conduct of firing practices at the ranges. c)Late Havildar Harpal of 20 Jat Regiment was directed to be treated on bona fide Government duty and his death was held attributable to military service in peace.",
+    "role_match": true,
+    "similarity_score": 0.3414,
+    "cosine_score": 0.3414,
+    "bm25_score": 10.699,
+    "fused_score": 0.034001,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Compliance with Army Rules procedures",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the consequences of non-compliance with Army Rules in a trial?",
+        "word_count": 12,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "How does non-compliance with specific provisions of the Army Rules impact the validity of a court martial or disciplinary proceeding under military law, particularly with regard to adherence to procedural requirements?",
+        "word_count": 31,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Issues or Questions",
+    "summary_role": "ISSUE",
+    "summary_sentence": "Whether the Tribunal has the power to direct a re-trial on the ground of non-compliance of Rule 180 of the Army Rules?",
+    "segment_id": "seg_0012",
+    "segment_role": "REASON",
+    "segment_text": "15. The power conferred on the Tribunal to direct re-trial by the Court Martial is only on the grounds mentioned in Section 16(2). The Tribunal is competent to direct re-trial only in case of evidence made available to the Tribunal was not produced before the Court Martial and if it appears to the Tribunal that the interests of justice requires a re-trial. The re-trial that was ordered by the Tribunal in this case is on the basis that the procedure prescribed in Rule 180 of the Army Rules has not been followed. The Tribunal does not have jurisdiction to direct re-trial on any other ground except that mentioned in Section 16(2). Non-compliance of Rule 180 cannot be a ground for ordering a re-trial. In addition, the Tribunal has competence only to order re-trial by the Court Martial. There is no power conferred on the Tribunal to direct the matter to be remanded to a stage prior to the Court Martial proceedings. Therefore, we are of the view that the order passed by the Tribunal directing a de novo inquiry from the stage of Court of Inquiry requires to be set aside. As the Tribunal has not adjudicated on the merits of the Transfer Application, we set aside the order of the Tribunal and remand the Application back to the Tribunal to be considered on its own merits, without being influenced by any observation made in this judgment.",
+    "role_match": false,
+    "similarity_score": 0.8098,
+    "cosine_score": 0.8098,
+    "bm25_score": 22.9594,
+    "fused_score": 0.032787,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Tribunal powers for re trial orders",
+        "word_count": 6,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the grounds for Tribunal directed re trials?",
+        "word_count": 9,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under Section 16(2) what are the specific grounds for a Tribunal to direct a re trial in a Court Martial proceeding and can non compliance with Army Rules be a valid ground?",
+        "word_count": 32,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Issues or Questions",
+    "summary_role": "ISSUE",
+    "summary_sentence": "Whether the Respondent was denied the opportunity to participate in the Court of Inquiry as contemplated in Rule 180?",
+    "segment_id": "seg_0006",
+    "segment_role": "ARG_R",
+    "segment_text": "8. The Respondent defended the order of the Tribunal by submitting that collection of evidence by the Court of Inquiry is a crucial stage during which the accused is entitled to be provided with an opportunity as contemplated in Rule 180. Violation of the procedure prescribed in Rule 180 would render the entire proceedings void. It was contended by the learned Senior Counsel for the Respondent that even though the Respondent was initially examined as a witness, there was a requirement of summoning those witnesses whose statements were recorded in his absence and re- examining them after the status of the Respondent changed from a witness to that of an accused.",
+    "role_match": false,
+    "similarity_score": 0.7263,
+    "cosine_score": 0.7263,
+    "bm25_score": 14.2623,
+    "fused_score": 0.032787,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Rule 180 procedural inquiry rights",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the rights of the accused in a Court of Inquiry under Rule 180?",
+        "word_count": 15,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "In disciplinary proceedings, what are the implications of violating the procedure prescribed in Rule 180 regarding the opportunity for the accused to participate in the collection of evidence during a Court of Inquiry?",
+        "word_count": 33,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Arguments.Petitioner",
+    "summary_role": "ARG_P",
+    "summary_sentence": "The Petitioner argued that the Court of Inquiry was initiated to investigate the circumstances leading to the death of Havildar Harpal and that the Respondent was not suspected to be involved at that stage.",
+    "segment_id": "seg_0005",
+    "segment_role": "ARG_P",
+    "segment_text": "7. On behalf of the Appellant, it was contended that the Court of Inquiry was initiated to unearth the circumstances leading to the death of Havildar Harpal and to find out who was responsible. At that stage, there was no suspicion about the involvement of the Respondent. The Respondent was examined as witness No.18 and not as an accused. Only during the course of the recording of the statement of the Respondent, a serious doubt was entertained about his involvement in the death of Havildar Harpal. It was contended by the Appellant that full opportunity was given to the Respondent to cross-examine the witnesses and to submit an additional statement in his defence which was declined by the Respondent. It was further contended that there is no complaint made by the Respondent about the violation of Rule 180 and the prejudice that was caused to him at the stage of recording summary of evidence and during the Court Martial. The submission made on behalf of the Appellant was that the Court of Inquiry is only for collection of evidence and any violation of the procedure prescribed under Rule 180 does not vitiate the proceedings of the Court Martial. Moreover, according to the Appellant, the Respondent failed to show any prejudice caused to him by the non- observance of the procedure provided in Rule 180. As the Respondent was given an opportunity to cross- examine witnesses as provided in Rule 22 and during the Court Martial proceedings which he did not utilize, there is no failure of justice, according to the learned Senior Counsel for the Appellant.",
+    "role_match": true,
+    "similarity_score": 0.7921,
+    "cosine_score": 0.7921,
+    "bm25_score": 29.7573,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "court of inquiry procedures rules",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the procedures for court martial investigations?",
+        "word_count": 8,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "What are the rules and procedures governing the conduct of a court martial investigation under the relevant military statutes and regulations, specifically regarding the collection of evidence and examination of witnesses?",
+        "word_count": 31,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Arguments.Petitioner",
+    "summary_role": "ARG_P",
+    "summary_sentence": "The Petitioner contended that the Respondent was given full opportunity to cross-examine witnesses and submit an additional statement in his defense, which he declined.",
+    "segment_id": "seg_0005",
+    "segment_role": "ARG_P",
+    "segment_text": "7. On behalf of the Appellant, it was contended that the Court of Inquiry was initiated to unearth the circumstances leading to the death of Havildar Harpal and to find out who was responsible. At that stage, there was no suspicion about the involvement of the Respondent. The Respondent was examined as witness No.18 and not as an accused. Only during the course of the recording of the statement of the Respondent, a serious doubt was entertained about his involvement in the death of Havildar Harpal. It was contended by the Appellant that full opportunity was given to the Respondent to cross-examine the witnesses and to submit an additional statement in his defence which was declined by the Respondent. It was further contended that there is no complaint made by the Respondent about the violation of Rule 180 and the prejudice that was caused to him at the stage of recording summary of evidence and during the Court Martial. The submission made on behalf of the Appellant was that the Court of Inquiry is only for collection of evidence and any violation of the procedure prescribed under Rule 180 does not vitiate the proceedings of the Court Martial. Moreover, according to the Appellant, the Respondent failed to show any prejudice caused to him by the non- observance of the procedure provided in Rule 180. As the Respondent was given an opportunity to cross- examine witnesses as provided in Rule 22 and during the Court Martial proceedings which he did not utilize, there is no failure of justice, according to the learned Senior Counsel for the Appellant.",
+    "role_match": true,
+    "similarity_score": 0.5368,
+    "cosine_score": 0.5368,
+    "bm25_score": 20.1114,
+    "fused_score": 0.037441,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "court martial procedure and rules",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the rules for court martial procedures regarding cross examination?",
+        "word_count": 11,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances can a court martial proceed with recording summary of evidence despite alleged violations of procedural rules regarding cross examination and submission of additional statements in defence?",
+        "word_count": 29,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Arguments.Petitioner",
+    "summary_role": "ARG_P",
+    "summary_sentence": "The Petitioner submitted that the Court of Inquiry is only for collection of evidence and that any violation of the procedure prescribed under Rule 180 does not vitiate the proceedings of the Court Martial.",
+    "segment_id": "seg_0005",
+    "segment_role": "ARG_P",
+    "segment_text": "7. On behalf of the Appellant, it was contended that the Court of Inquiry was initiated to unearth the circumstances leading to the death of Havildar Harpal and to find out who was responsible. At that stage, there was no suspicion about the involvement of the Respondent. The Respondent was examined as witness No.18 and not as an accused. Only during the course of the recording of the statement of the Respondent, a serious doubt was entertained about his involvement in the death of Havildar Harpal. It was contended by the Appellant that full opportunity was given to the Respondent to cross-examine the witnesses and to submit an additional statement in his defence which was declined by the Respondent. It was further contended that there is no complaint made by the Respondent about the violation of Rule 180 and the prejudice that was caused to him at the stage of recording summary of evidence and during the Court Martial. The submission made on behalf of the Appellant was that the Court of Inquiry is only for collection of evidence and any violation of the procedure prescribed under Rule 180 does not vitiate the proceedings of the Court Martial. Moreover, according to the Appellant, the Respondent failed to show any prejudice caused to him by the non- observance of the procedure provided in Rule 180. As the Respondent was given an opportunity to cross- examine witnesses as provided in Rule 22 and during the Court Martial proceedings which he did not utilize, there is no failure of justice, according to the learned Senior Counsel for the Appellant.",
+    "role_match": true,
+    "similarity_score": 0.5719,
+    "cosine_score": 0.5719,
+    "bm25_score": 26.7897,
+    "fused_score": 0.036017,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Court Martial evidence collection rules",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What is the purpose of a Court of Inquiry in collecting evidence for a Court Martial?",
+        "word_count": 16,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "How does the procedure under Rule 180 affect the admissibility of evidence collected during a Court of Inquiry in a Court Martial proceeding, and what constitutes a violation of this rule?",
+        "word_count": 31,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Arguments.Petitioner",
+    "summary_role": "ARG_P",
+    "summary_sentence": "The Petitioner argued that the Respondent failed to show any prejudice caused to him by the non-observance of the procedure provided in Rule 180.",
+    "segment_id": "seg_0005",
+    "segment_role": "ARG_P",
+    "segment_text": "7. On behalf of the Appellant, it was contended that the Court of Inquiry was initiated to unearth the circumstances leading to the death of Havildar Harpal and to find out who was responsible. At that stage, there was no suspicion about the involvement of the Respondent. The Respondent was examined as witness No.18 and not as an accused. Only during the course of the recording of the statement of the Respondent, a serious doubt was entertained about his involvement in the death of Havildar Harpal. It was contended by the Appellant that full opportunity was given to the Respondent to cross-examine the witnesses and to submit an additional statement in his defence which was declined by the Respondent. It was further contended that there is no complaint made by the Respondent about the violation of Rule 180 and the prejudice that was caused to him at the stage of recording summary of evidence and during the Court Martial. The submission made on behalf of the Appellant was that the Court of Inquiry is only for collection of evidence and any violation of the procedure prescribed under Rule 180 does not vitiate the proceedings of the Court Martial. Moreover, according to the Appellant, the Respondent failed to show any prejudice caused to him by the non- observance of the procedure provided in Rule 180. As the Respondent was given an opportunity to cross- examine witnesses as provided in Rule 22 and during the Court Martial proceedings which he did not utilize, there is no failure of justice, according to the learned Senior Counsel for the Appellant.",
+    "role_match": true,
+    "similarity_score": 0.5228,
+    "cosine_score": 0.5228,
+    "bm25_score": 23.6849,
+    "fused_score": 0.037184,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "non observance of Rule 180 procedures",
+        "word_count": 6,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the implications of non-observance of Rule 180 in court martial proceedings?",
+        "word_count": 13,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances can the non-observance of the procedure provided in Rule 180 vitiate the proceedings of a court martial, and what is the required standard of proof for demonstrating prejudice to the accused?",
+        "word_count": 34,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Arguments.Respondent",
+    "summary_role": "ARG_R",
+    "summary_sentence": "The Respondent defended the order of the Tribunal, submitting that collection of evidence by the Court of Inquiry is a crucial stage during which the accused is entitled to be provided with an opportunity as contemplated in Rule 180.",
+    "segment_id": "seg_0006",
+    "segment_role": "ARG_R",
+    "segment_text": "8. The Respondent defended the order of the Tribunal by submitting that collection of evidence by the Court of Inquiry is a crucial stage during which the accused is entitled to be provided with an opportunity as contemplated in Rule 180. Violation of the procedure prescribed in Rule 180 would render the entire proceedings void. It was contended by the learned Senior Counsel for the Respondent that even though the Respondent was initially examined as a witness, there was a requirement of summoning those witnesses whose statements were recorded in his absence and re- examining them after the status of the Respondent changed from a witness to that of an accused.",
+    "role_match": true,
+    "similarity_score": 0.8552,
+    "cosine_score": 0.8552,
+    "bm25_score": 42.1028,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "collection of evidence procedure rules",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the procedures outlined in Rule 180 for collecting evidence?",
+        "word_count": 11,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances does violation of the procedure prescribed in Rule 180 render the entire proceedings void in terms of entitlement to opportunity as contemplated for the accused during evidence collection?",
+        "word_count": 31,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Arguments.Respondent",
+    "summary_role": "ARG_R",
+    "summary_sentence": "The Respondent contended that violation of the procedure prescribed in Rule 180 would render the entire proceedings void.",
+    "segment_id": "seg_0006",
+    "segment_role": "ARG_R",
+    "segment_text": "8. The Respondent defended the order of the Tribunal by submitting that collection of evidence by the Court of Inquiry is a crucial stage during which the accused is entitled to be provided with an opportunity as contemplated in Rule 180. Violation of the procedure prescribed in Rule 180 would render the entire proceedings void. It was contended by the learned Senior Counsel for the Respondent that even though the Respondent was initially examined as a witness, there was a requirement of summoning those witnesses whose statements were recorded in his absence and re- examining them after the status of the Respondent changed from a witness to that of an accused.",
+    "role_match": true,
+    "similarity_score": 0.7086,
+    "cosine_score": 0.7086,
+    "bm25_score": 21.7772,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Rule 180 procedural violation impact",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the consequences of violating procedure under Rule 180?",
+        "word_count": 10,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "The Respondent contended that violation of the procedure prescribed in Rule 180 would render the",
+        "word_count": 15,
+        "valid": true,
+        "used_fallback": true,
+        "fallback_reason": "case_party_name"
+      }
+    }
+  },
+  {
+    "summary_field": "Arguments.Respondent",
+    "summary_role": "ARG_R",
+    "summary_sentence": "The Respondent argued that even though he was initially examined as a witness, there was a requirement of summoning those witnesses whose statements were recorded in his absence and re-examining them after his status changed from a witness to that of an accused.",
+    "segment_id": "seg_0006",
+    "segment_role": "ARG_R",
+    "segment_text": "8. The Respondent defended the order of the Tribunal by submitting that collection of evidence by the Court of Inquiry is a crucial stage during which the accused is entitled to be provided with an opportunity as contemplated in Rule 180. Violation of the procedure prescribed in Rule 180 would render the entire proceedings void. It was contended by the learned Senior Counsel for the Respondent that even though the Respondent was initially examined as a witness, there was a requirement of summoning those witnesses whose statements were recorded in his absence and re- examining them after the status of the Respondent changed from a witness to that of an accused.",
+    "role_match": true,
+    "similarity_score": 0.7383,
+    "cosine_score": 0.7383,
+    "bm25_score": 57.9015,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "procedure under Rule 180 requirements",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the rules for re-examining witnesses after status change?",
+        "word_count": 10,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "What are the procedural requirements under Rule 180 for summoning and re-examining witnesses after an individual's status changes from witness to accused in a court of inquiry?",
+        "word_count": 27,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Reasoning of the Questions",
+    "summary_role": "REASON",
+    "summary_sentence": "The court held that the Tribunal does not have jurisdiction to direct re-trial on any other ground except that mentioned in Section 16(2) of the Armed Forces Tribunal Act, 2007, and that non-compliance of Rule 180 cannot be a ground for ordering a re-trial.",
+    "segment_id": "seg_0012",
+    "segment_role": "REASON",
+    "segment_text": "15. The power conferred on the Tribunal to direct re-trial by the Court Martial is only on the grounds mentioned in Section 16(2). The Tribunal is competent to direct re-trial only in case of evidence made available to the Tribunal was not produced before the Court Martial and if it appears to the Tribunal that the interests of justice requires a re-trial. The re-trial that was ordered by the Tribunal in this case is on the basis that the procedure prescribed in Rule 180 of the Army Rules has not been followed. The Tribunal does not have jurisdiction to direct re-trial on any other ground except that mentioned in Section 16(2). Non-compliance of Rule 180 cannot be a ground for ordering a re-trial. In addition, the Tribunal has competence only to order re-trial by the Court Martial. There is no power conferred on the Tribunal to direct the matter to be remanded to a stage prior to the Court Martial proceedings. Therefore, we are of the view that the order passed by the Tribunal directing a de novo inquiry from the stage of Court of Inquiry requires to be set aside. As the Tribunal has not adjudicated on the merits of the Transfer Application, we set aside the order of the Tribunal and remand the Application back to the Tribunal to be considered on its own merits, without being influenced by any observation made in this judgment.",
+    "role_match": true,
+    "similarity_score": 0.7818,
+    "cosine_score": 0.7818,
+    "bm25_score": 44.472,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Armed Forces Tribunal Act jurisdiction",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the grounds for directing a re-trial under the Armed Forces Tribunal Act?",
+        "word_count": 14,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under Section 16(2) of the Armed Forces Tribunal Act 2007, what are the specific grounds on which the Tribunal can direct a re-trial, and can non-compliance with procedural rules be a valid basis for ordering a re-trial?",
+        "word_count": 37,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Reasoning of the Questions",
+    "summary_role": "REASON",
+    "summary_sentence": "The court reasoned that although there was non-compliance of Rule 180, the Respondent did not raise this ground during the framing of the charge, recording summary of evidence, or during the Court Martial proceedings, and therefore, the Tribunal ought not to have remanded the matter back for a de novo inquiry from the stage of Court of Inquiry on the ground of infraction of Rule 180.",
+    "segment_id": "seg_0010",
+    "segment_role": "REASON",
+    "segment_text": "12. A close scrutiny of the above judgments would indicate that: (a) The proceedings of a Court of Inquiry are in the nature of a fact-finding inquiry conducted at a pre- investigation stage; (b) The accused is entitled to full opportunity as provided in Rule 180; (c) As a final order of conviction is on the basis of a trial by the Court Martial, irregularities at the earlier stages cannot be the basis for setting aside the order passed by the Court Martial; (d) If the accused raises a ground of non-compliance of Rule 180 during the framing of charge or during the recording of summary of evidence, the authorities have to rectify the defect as compliance of the procedure prescribed in Rule 180 is obligatory. 13. Though there is non-compliance of Rule 180 of the Army Rules in this case as the Respondent was not present during the recording of the statements of witnesses, it is clear from the record that the Respondent did not raise this ground either at the stage of framing of the charge, recording summary of evidence or during the Court Martial proceedings. After a final order was passed by the Court Martial on the basis of a full-fledged trial, it is not open to the Respondent to raise the ground of non- compliance of Rule 180 during the Court of Inquiry proceedings. Therefore, the Tribunal ought not to have remanded the matter back for a de novo inquiry from the stage of Court of Inquiry on the ground of infraction of Rule 180 of the Army Rules. Section 16 of the Army Act, 1950",
+    "role_match": true,
+    "similarity_score": 0.7537,
+    "cosine_score": 0.7537,
+    "bm25_score": 67.9073,
+    "fused_score": 0.037441,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Court of Inquiry non compliance Rule 180",
+        "word_count": 7,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What happens when there is non-compliance with Rule 180 during court martial proceedings?",
+        "word_count": 13,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Consequences of non-compliance with Rule 180 under Section 16 of the Army Act in court martial proceedings and subsequent appeals to the tribunal",
+        "word_count": 23,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Final Judgment",
+    "summary_role": "HOLDING",
+    "summary_sentence": "The Appeal is accordingly allowed.",
+    "segment_id": "seg_0013",
+    "segment_role": "ORDER",
+    "segment_text": "16. The Appeal is accordingly allowed. ..…",
+    "role_match": false,
+    "similarity_score": 0.6532,
+    "cosine_score": 0.6532,
+    "bm25_score": 10.4534,
+    "fused_score": 0.032787,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "appeal allowance legal procedures defined",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What is the procedure for allowing an appeal in a case?",
+        "word_count": 11,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances and according to which legal principles can an appeal be allowed, specifically in relation to the rules of appellate procedure and the requirements for granting an appeal?",
+        "word_count": 30,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Final Judgment",
+    "summary_role": "ORDER",
+    "summary_sentence": "The Appeal is accordingly allowed.",
+    "segment_id": "seg_0013",
+    "segment_role": "ORDER",
+    "segment_text": "16. The Appeal is accordingly allowed. ..…",
+    "role_match": true,
+    "similarity_score": 0.6532,
+    "cosine_score": 0.6532,
+    "bm25_score": 10.4534,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "appeals allowed under certain conditions",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "When is an appeal accordingly allowed in court?",
+        "word_count": 8,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances and legal principles is an appeal accordingly allowed by the appellate court, according to relevant statutes and precedents?",
+        "word_count": 21,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Statutes Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Section 16 of the Armed Forces Tribunal Act, 2007. The Tribunal has the power to quash a conviction and make an order authorizing the appellant to be retried by court-martial, but shall only exercise this power when the appeal against conviction is allowed by reasons only of evidence received or available to be received by the Tribunal under this Act and it appears to the Tribunal that the interests of justice require that an order under this section should be made",
+    "segment_id": "seg_0011",
+    "segment_role": "LAW",
+    "segment_text": "14. In exercise of the power conferred by Section 16 of the Armed Forces Tribunal Act, 2007 an order of remand was made by the Tribunal. Section 16 of the Armed Forces Tribunal Act, 2007 reads as follows: “16. Re-trial. — (1) Except as provided by this Act, where the conviction of a person by court martial for an offence has been quashed, he shall not be liable to be tried again for that offence by a court-martial or by any other Court. (2) The Tribunal shall have the power of quashing a conviction, to make an order authorising the appellant to be retried by court martial, but shall only exercise this power when the appeal against conviction is allowed by reasons only of evidence received or available to be received by the Tribunal under this Act and it appears to the Tribunal that the interests of justice require that an order under this section should be made: Provided that an appellant shall not be retried under this section for an offence other than— (a) the offence for which he was convicted by the original court martial and in respect of which his appeal is allowed; (b) any offence for which he could have been convicted at the original court martial on a charge of the first-mentioned offence; (c) any offence charged in the alternative in respect of which the court martial recorded no finding in consequence of convicting him of the first-mentioned offence. (3) A person who is to be retried under this section for an offence shall, if the Tribunal or the Supreme Court so directs, whether or not such person is being tried or retried on one or more of the original charges, no fresh investigation or other action shall be taken under the relevant provision of the Army Act, 1950 (46 of 1950) or the Navy Act, 1957 (62 of 1957) or the Air Force Act, 1950 (45 of 1950), as the case may be, or rules and regulations made thereunder, in relation to the said charge or charges on which he is to be retried.”",
+    "role_match": true,
+    "similarity_score": 0.9074,
+    "cosine_score": 0.9074,
+    "bm25_score": 86.0809,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "court martial retrial under Section 16",
+        "word_count": 6,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the conditions for retrial under Section 16 of the Armed Forces Tribunal Act?",
+        "word_count": 15,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances can the Tribunal exercise its power to quash a conviction and order a retrial under Section 16 of the Armed Forces Tribunal Act, 2007, considering the interests of justice and the availability of new evidence?",
+        "word_count": 38,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Statutes Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Section 302 IPC. Punishment for murder",
+    "segment_id": "seg_0001",
+    "segment_role": "FACT",
+    "segment_text": "3. The Respondent was kept in close arrest w.e.f. 27.11.2004 and was handed over to 7 Kumaon Regiment under the authority of Headquarters 49 Infantry Brigade. On 28.12.2004, the Respondent was tentatively charged with the murder of Havildar Harpal under Section 302 IPC read with Section 69 of the Army Act, 1950 (for short “the Act”) and under Section 64(c) of the Act for attempting to commit suicide. 21 witnesses were examined in the summary of evidence and the Respondent was given an opportunity to cross-examine the witnesses, which he declined. He was given an opportunity to make additional statement, which was also declined. Further opportunity given to him to adduce evidence was also not availed by the Respondent. Summary of evidence concluded on 07.02.2005. Additional summary of evidence was also recorded, which was completed on 03.06.2005. The General Court Martial commenced on 28.11.2005, and the trial was concluded on 16.03.2006. The General Court Martial convicted the Respondent under Section 302 IPC for the murder of Havildar Harpal and for attempting to commit suicide. The Respondent was sentenced to suffer imprisonment for life and to be dismissed from service. The statutory complaint filed by the Respondent was rejected by the Chief of the Army Staff on 16.03.2007. The validity of the order of the General Court Martial dated 16.03.2006 and the order of the Chief of the Army Staff dated 16.03.2007, rejecting the statutory complaint were assailed before the Tribunal.",
+    "role_match": false,
+    "similarity_score": 0.4883,
+    "cosine_score": 0.4883,
+    "bm25_score": 10.9138,
+    "fused_score": 0.032787,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Section 302 IPC murder charges",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the proceedings for murder under Section 302 IPC?",
+        "word_count": 10,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "How does a General Court Martial proceed with a charge under Section 302 IPC for murder and attempted suicide in the context of the Army Act 1950?",
+        "word_count": 27,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Statutes Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Section 64(c) of the Army Act, 1950. Attempting to commit suicide",
+    "segment_id": "seg_0001",
+    "segment_role": "FACT",
+    "segment_text": "3. The Respondent was kept in close arrest w.e.f. 27.11.2004 and was handed over to 7 Kumaon Regiment under the authority of Headquarters 49 Infantry Brigade. On 28.12.2004, the Respondent was tentatively charged with the murder of Havildar Harpal under Section 302 IPC read with Section 69 of the Army Act, 1950 (for short “the Act”) and under Section 64(c) of the Act for attempting to commit suicide. 21 witnesses were examined in the summary of evidence and the Respondent was given an opportunity to cross-examine the witnesses, which he declined. He was given an opportunity to make additional statement, which was also declined. Further opportunity given to him to adduce evidence was also not availed by the Respondent. Summary of evidence concluded on 07.02.2005. Additional summary of evidence was also recorded, which was completed on 03.06.2005. The General Court Martial commenced on 28.11.2005, and the trial was concluded on 16.03.2006. The General Court Martial convicted the Respondent under Section 302 IPC for the murder of Havildar Harpal and for attempting to commit suicide. The Respondent was sentenced to suffer imprisonment for life and to be dismissed from service. The statutory complaint filed by the Respondent was rejected by the Chief of the Army Staff on 16.03.2007. The validity of the order of the General Court Martial dated 16.03.2006 and the order of the Chief of the Army Staff dated 16.03.2007, rejecting the statutory complaint were assailed before the Tribunal.",
+    "role_match": false,
+    "similarity_score": 0.5256,
+    "cosine_score": 0.5256,
+    "bm25_score": 15.9005,
+    "fused_score": 0.032787,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Army Act section 64c application",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What is the procedure for attempting to commit suicide under Army Act?",
+        "word_count": 12,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Can a soldier be charged under Section 64c of the Army Act, 1950 for attempting to commit suicide and what are the implications for court martial proceedings and sentencing?",
+        "word_count": 29,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Statutes Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Rule 22 of the Army Rules, 1954. Hearing of charge",
+    "segment_id": "seg_0004",
+    "segment_role": "LAW",
+    "segment_text": "6. Chapter VI of the Army Rules, 1954 deals with the Court of Inquiry. According to Rule 177, a Court of Inquiry is an assembly of officers or junior commissioned officers (JCOs) constituted to collect the evidence. The procedure to be followed by the Court of Inquiry is provided in Rule 179. Rule 180 deals with the procedure for inquiry where the character of a person who is subject to the Act is involved. When an inquiry affects the character or military reputation of a person who is subject to the Act, full opportunity has to be provided to the person throughout the inquiry, of making any statement, of giving any evidence he may wish to make or give, and of cross-examining any evidence. According to Rule 182, the proceedings of a Court of Inquiry, or of any confession, statement, or answer to a question made or given in a Court of Inquiry, shall not be admissible in evidence. However, the proviso to Rule 182 provide that nothing in Rule 182 shall prevent the proceedings from being used by the prosecution or the defence for the purpose of cross-examining any witness. It is also necessary to refer to Rule 22 of the Army Rules, 1954 which relates to the hearing of charge which is as follows: “22. Hearing of Charge. — (1) Every Charge against a person subject to the Act shall be heard by the Commanding Officer in the presence of the accused. The accused shall have full liberty to cross-examine any witness against him, and to call such witness and make such statement as may be necessary for his defence: Provided that where the charge against the accused arises as a result of investigation by a Court of inquiry, wherein the provisions of rule 180 have been complied with in respect of that accused, the commanding officer may dispense with the procedure in sub-rule (1). (2) The commanding officer shall dismiss a charge brought before him if, in his opinion the evidence does not show that an offence under the Act has been committed, and may do so if, he is satisfied that the charge ought not to be proceeded with: Provided that the commanding officer shall not dismiss a charge which he is debarred to try under sub-section (2) of Sec. 120 without reference to superior authority as specified therein. (3) After compliance of sub-rule (1), if the commanding officer is of opinion that the charge ought to be proceeded with, he shall within a reasonable time— (a) dispose of the case under section 80 in accordance with the manner and form in Appendix III; or (b) refer the case to the proper superior military authority; or (c) adjourn the case for the purpose of having the evidence reduced to writing; or (d) if the accused is below the rank of warrant officer, order his trial by a summary court-martial: Provided that the commanding officer shall not order trial by a summary court-martial without a reference to the officer empowered to convene a district court- martial or on active service a summary general court- martial for the trial of the alleged offender unless— (a) the offence is one which he can try by a summary court-martial without any reference to that officer; or (b) he considers that there is grave reason for immediate action and such reference cannot be made without detriment to discipline. (4) Where the evidence taken in accordance with sub- rule (3) of this rule discloses an offence other than the offence which was the subject of the investigation, the commanding officer may frame suitable charge (s) on the basis of the evidence so taken as well as the investigation of the original charge.]”",
+    "role_match": true,
+    "similarity_score": 0.6068,
+    "cosine_score": 0.6068,
+    "bm25_score": 11.5852,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Army Rules hearing of charge",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What is the procedure for hearing of charges under Army Rules 1954?",
+        "word_count": 12,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "What are the specific provisions and procedures outlined in Rule 22 of the Army Rules, 1954 regarding the hearing of charges against a person subject to the Act, including rules for cross-examination and disposal of cases?",
+        "word_count": 36,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Statutes Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Rule 23 of the Army Rules, 1954. Not explicitly stated in the judgment",
+    "segment_id": "seg_0008",
+    "segment_role": "LAW",
+    "segment_text": "10. This Court in Major G.S. Sodhi v. Union of India2 rejected the challenge to the Court Martial proceedings while dismissing the Writ Petitions filed under Article 32 of the Constitution. The main grievance of the petitioners in that case was the violation of the procedure prescribed in Rules 22 and 23 of the Army Rules. While recording a finding that there has been substantial compliance of Rules 22 and 23, this Court has held that recording of evidence is only to find out whether there is a prima facie case to convene a court- martial. This Court was of the opinion that the object and effect of the Rules should be considered in the context bearing in mind the general principle whether such an incomplete compliance has caused any prejudice to the delinquent officer. However, it was held that if there is any violation of mandatory rules, the benefit of the same should be given to the delinquent officer. The 2 (1991) 2 SCC 382 conclusion in that case was that there was no violation of the Rules and in any event no prejudice was caused to the petitioners therein. In Union of India & Ors. v. Major A. Hussain (IC-14827)3, this Court while setting aside the judgment of the High Court of Andhra Pradesh upheld the order of conviction of the respondent by the Court Martial. While dealing with the submissions made on Rule 180, this Court relying upon Major General Inder Jit Kumar v. Union of India4 held that proceedings before a Court of Inquiry are not adversarial proceedings as the Court of Inquiry is in the nature of a fact-finding enquiry committee. This Court was of the view that it is unnecessary to examine if pre-trial investigation is adequate or not when there is sufficient evidence to sustain conviction by the Court Martial. It was further held that the requirement of proper and adequate investigation is not jurisdictional and any violation thereof does not invalidate the Court Martial unless it is shown that the accused has been prejudiced or a mandatory provision has been violated. As the 3 (1998) 1 SCC 537 4 (1997) 9 SCC 1 Respondent therein participated in the recording of summary of evidence without raising any objection, the submission regarding violation of principles of natural justice at an earlier stage was rejected by this Court.",
+    "role_match": true,
+    "similarity_score": 0.5094,
+    "cosine_score": 0.5094,
+    "bm25_score": 9.6043,
+    "fused_score": 0.037184,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "court martial proceedings rules and regulations",
+        "word_count": 6,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "Rule 23 Army Rules, 1954. explicitly stated judgment",
+        "word_count": 8,
+        "valid": true,
+        "used_fallback": true,
+        "fallback_reason": "case_party_name"
+      },
+      "large_query": {
+        "text": "Implications of violating Army Rules during court martial proceedings regarding substantial compliance and prejudice to accused officers",
+        "word_count": 17,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Statutes Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Rule 177 of the Army Rules, 1954. Court of Inquiry",
+    "segment_id": "seg_0004",
+    "segment_role": "LAW",
+    "segment_text": "6. Chapter VI of the Army Rules, 1954 deals with the Court of Inquiry. According to Rule 177, a Court of Inquiry is an assembly of officers or junior commissioned officers (JCOs) constituted to collect the evidence. The procedure to be followed by the Court of Inquiry is provided in Rule 179. Rule 180 deals with the procedure for inquiry where the character of a person who is subject to the Act is involved. When an inquiry affects the character or military reputation of a person who is subject to the Act, full opportunity has to be provided to the person throughout the inquiry, of making any statement, of giving any evidence he may wish to make or give, and of cross-examining any evidence. According to Rule 182, the proceedings of a Court of Inquiry, or of any confession, statement, or answer to a question made or given in a Court of Inquiry, shall not be admissible in evidence. However, the proviso to Rule 182 provide that nothing in Rule 182 shall prevent the proceedings from being used by the prosecution or the defence for the purpose of cross-examining any witness. It is also necessary to refer to Rule 22 of the Army Rules, 1954 which relates to the hearing of charge which is as follows: “22. Hearing of Charge. — (1) Every Charge against a person subject to the Act shall be heard by the Commanding Officer in the presence of the accused. The accused shall have full liberty to cross-examine any witness against him, and to call such witness and make such statement as may be necessary for his defence: Provided that where the charge against the accused arises as a result of investigation by a Court of inquiry, wherein the provisions of rule 180 have been complied with in respect of that accused, the commanding officer may dispense with the procedure in sub-rule (1). (2) The commanding officer shall dismiss a charge brought before him if, in his opinion the evidence does not show that an offence under the Act has been committed, and may do so if, he is satisfied that the charge ought not to be proceeded with: Provided that the commanding officer shall not dismiss a charge which he is debarred to try under sub-section (2) of Sec. 120 without reference to superior authority as specified therein. (3) After compliance of sub-rule (1), if the commanding officer is of opinion that the charge ought to be proceeded with, he shall within a reasonable time— (a) dispose of the case under section 80 in accordance with the manner and form in Appendix III; or (b) refer the case to the proper superior military authority; or (c) adjourn the case for the purpose of having the evidence reduced to writing; or (d) if the accused is below the rank of warrant officer, order his trial by a summary court-martial: Provided that the commanding officer shall not order trial by a summary court-martial without a reference to the officer empowered to convene a district court- martial or on active service a summary general court- martial for the trial of the alleged offender unless— (a) the offence is one which he can try by a summary court-martial without any reference to that officer; or (b) he considers that there is grave reason for immediate action and such reference cannot be made without detriment to discipline. (4) Where the evidence taken in accordance with sub- rule (3) of this rule discloses an offence other than the offence which was the subject of the investigation, the commanding officer may frame suitable charge (s) on the basis of the evidence so taken as well as the investigation of the original charge.]”",
+    "role_match": true,
+    "similarity_score": 0.6306,
+    "cosine_score": 0.6306,
+    "bm25_score": 9.2416,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Army Rules of Procedure 1954",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the procedures for a Court of Inquiry under the Army Rules 1954?",
+        "word_count": 14,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "What are the specific provisions and procedures outlined in the Army Rules 1954, particularly in relation to Courts of Inquiry and the protection of a person's character or military reputation?",
+        "word_count": 30,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Statutes Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Rule 179 of the Army Rules, 1954. Procedure for Court of Inquiry",
+    "segment_id": "seg_0004",
+    "segment_role": "LAW",
+    "segment_text": "6. Chapter VI of the Army Rules, 1954 deals with the Court of Inquiry. According to Rule 177, a Court of Inquiry is an assembly of officers or junior commissioned officers (JCOs) constituted to collect the evidence. The procedure to be followed by the Court of Inquiry is provided in Rule 179. Rule 180 deals with the procedure for inquiry where the character of a person who is subject to the Act is involved. When an inquiry affects the character or military reputation of a person who is subject to the Act, full opportunity has to be provided to the person throughout the inquiry, of making any statement, of giving any evidence he may wish to make or give, and of cross-examining any evidence. According to Rule 182, the proceedings of a Court of Inquiry, or of any confession, statement, or answer to a question made or given in a Court of Inquiry, shall not be admissible in evidence. However, the proviso to Rule 182 provide that nothing in Rule 182 shall prevent the proceedings from being used by the prosecution or the defence for the purpose of cross-examining any witness. It is also necessary to refer to Rule 22 of the Army Rules, 1954 which relates to the hearing of charge which is as follows: “22. Hearing of Charge. — (1) Every Charge against a person subject to the Act shall be heard by the Commanding Officer in the presence of the accused. The accused shall have full liberty to cross-examine any witness against him, and to call such witness and make such statement as may be necessary for his defence: Provided that where the charge against the accused arises as a result of investigation by a Court of inquiry, wherein the provisions of rule 180 have been complied with in respect of that accused, the commanding officer may dispense with the procedure in sub-rule (1). (2) The commanding officer shall dismiss a charge brought before him if, in his opinion the evidence does not show that an offence under the Act has been committed, and may do so if, he is satisfied that the charge ought not to be proceeded with: Provided that the commanding officer shall not dismiss a charge which he is debarred to try under sub-section (2) of Sec. 120 without reference to superior authority as specified therein. (3) After compliance of sub-rule (1), if the commanding officer is of opinion that the charge ought to be proceeded with, he shall within a reasonable time— (a) dispose of the case under section 80 in accordance with the manner and form in Appendix III; or (b) refer the case to the proper superior military authority; or (c) adjourn the case for the purpose of having the evidence reduced to writing; or (d) if the accused is below the rank of warrant officer, order his trial by a summary court-martial: Provided that the commanding officer shall not order trial by a summary court-martial without a reference to the officer empowered to convene a district court- martial or on active service a summary general court- martial for the trial of the alleged offender unless— (a) the offence is one which he can try by a summary court-martial without any reference to that officer; or (b) he considers that there is grave reason for immediate action and such reference cannot be made without detriment to discipline. (4) Where the evidence taken in accordance with sub- rule (3) of this rule discloses an offence other than the offence which was the subject of the investigation, the commanding officer may frame suitable charge (s) on the basis of the evidence so taken as well as the investigation of the original charge.]”",
+    "role_match": true,
+    "similarity_score": 0.6906,
+    "cosine_score": 0.6906,
+    "bm25_score": 9.9603,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Army Rules 1954 inquiry procedure",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What is the procedure for a Court of Inquiry under the Army Rules 1954?",
+        "word_count": 14,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "What are the specific procedural requirements for a Court of Inquiry under Rule 179 of the Army Rules, 1954, particularly regarding the protection of a person's character or military reputation?",
+        "word_count": 30,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Statutes Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Rule 180 of the Army Rules, 1954. Procedure when character of a person subject to the Act is involved",
+    "segment_id": "seg_0004",
+    "segment_role": "LAW",
+    "segment_text": "6. Chapter VI of the Army Rules, 1954 deals with the Court of Inquiry. According to Rule 177, a Court of Inquiry is an assembly of officers or junior commissioned officers (JCOs) constituted to collect the evidence. The procedure to be followed by the Court of Inquiry is provided in Rule 179. Rule 180 deals with the procedure for inquiry where the character of a person who is subject to the Act is involved. When an inquiry affects the character or military reputation of a person who is subject to the Act, full opportunity has to be provided to the person throughout the inquiry, of making any statement, of giving any evidence he may wish to make or give, and of cross-examining any evidence. According to Rule 182, the proceedings of a Court of Inquiry, or of any confession, statement, or answer to a question made or given in a Court of Inquiry, shall not be admissible in evidence. However, the proviso to Rule 182 provide that nothing in Rule 182 shall prevent the proceedings from being used by the prosecution or the defence for the purpose of cross-examining any witness. It is also necessary to refer to Rule 22 of the Army Rules, 1954 which relates to the hearing of charge which is as follows: “22. Hearing of Charge. — (1) Every Charge against a person subject to the Act shall be heard by the Commanding Officer in the presence of the accused. The accused shall have full liberty to cross-examine any witness against him, and to call such witness and make such statement as may be necessary for his defence: Provided that where the charge against the accused arises as a result of investigation by a Court of inquiry, wherein the provisions of rule 180 have been complied with in respect of that accused, the commanding officer may dispense with the procedure in sub-rule (1). (2) The commanding officer shall dismiss a charge brought before him if, in his opinion the evidence does not show that an offence under the Act has been committed, and may do so if, he is satisfied that the charge ought not to be proceeded with: Provided that the commanding officer shall not dismiss a charge which he is debarred to try under sub-section (2) of Sec. 120 without reference to superior authority as specified therein. (3) After compliance of sub-rule (1), if the commanding officer is of opinion that the charge ought to be proceeded with, he shall within a reasonable time— (a) dispose of the case under section 80 in accordance with the manner and form in Appendix III; or (b) refer the case to the proper superior military authority; or (c) adjourn the case for the purpose of having the evidence reduced to writing; or (d) if the accused is below the rank of warrant officer, order his trial by a summary court-martial: Provided that the commanding officer shall not order trial by a summary court-martial without a reference to the officer empowered to convene a district court- martial or on active service a summary general court- martial for the trial of the alleged offender unless— (a) the offence is one which he can try by a summary court-martial without any reference to that officer; or (b) he considers that there is grave reason for immediate action and such reference cannot be made without detriment to discipline. (4) Where the evidence taken in accordance with sub- rule (3) of this rule discloses an offence other than the offence which was the subject of the investigation, the commanding officer may frame suitable charge (s) on the basis of the evidence so taken as well as the investigation of the original charge.]”",
+    "role_match": true,
+    "similarity_score": 0.5636,
+    "cosine_score": 0.5636,
+    "bm25_score": 14.4322,
+    "fused_score": 0.037184,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Army Rules character inquiry procedure",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What is the procedure for inquiry under Army Rules involving character?",
+        "word_count": 11,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under the Army Rules what are the specific procedures for conducting an inquiry that involves the character of a person subject to the Act?",
+        "word_count": 24,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Statutes Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Rule 182 of the Army Rules, 1954. Proceedings of a Court of Inquiry",
+    "segment_id": "seg_0004",
+    "segment_role": "LAW",
+    "segment_text": "6. Chapter VI of the Army Rules, 1954 deals with the Court of Inquiry. According to Rule 177, a Court of Inquiry is an assembly of officers or junior commissioned officers (JCOs) constituted to collect the evidence. The procedure to be followed by the Court of Inquiry is provided in Rule 179. Rule 180 deals with the procedure for inquiry where the character of a person who is subject to the Act is involved. When an inquiry affects the character or military reputation of a person who is subject to the Act, full opportunity has to be provided to the person throughout the inquiry, of making any statement, of giving any evidence he may wish to make or give, and of cross-examining any evidence. According to Rule 182, the proceedings of a Court of Inquiry, or of any confession, statement, or answer to a question made or given in a Court of Inquiry, shall not be admissible in evidence. However, the proviso to Rule 182 provide that nothing in Rule 182 shall prevent the proceedings from being used by the prosecution or the defence for the purpose of cross-examining any witness. It is also necessary to refer to Rule 22 of the Army Rules, 1954 which relates to the hearing of charge which is as follows: “22. Hearing of Charge. — (1) Every Charge against a person subject to the Act shall be heard by the Commanding Officer in the presence of the accused. The accused shall have full liberty to cross-examine any witness against him, and to call such witness and make such statement as may be necessary for his defence: Provided that where the charge against the accused arises as a result of investigation by a Court of inquiry, wherein the provisions of rule 180 have been complied with in respect of that accused, the commanding officer may dispense with the procedure in sub-rule (1). (2) The commanding officer shall dismiss a charge brought before him if, in his opinion the evidence does not show that an offence under the Act has been committed, and may do so if, he is satisfied that the charge ought not to be proceeded with: Provided that the commanding officer shall not dismiss a charge which he is debarred to try under sub-section (2) of Sec. 120 without reference to superior authority as specified therein. (3) After compliance of sub-rule (1), if the commanding officer is of opinion that the charge ought to be proceeded with, he shall within a reasonable time— (a) dispose of the case under section 80 in accordance with the manner and form in Appendix III; or (b) refer the case to the proper superior military authority; or (c) adjourn the case for the purpose of having the evidence reduced to writing; or (d) if the accused is below the rank of warrant officer, order his trial by a summary court-martial: Provided that the commanding officer shall not order trial by a summary court-martial without a reference to the officer empowered to convene a district court- martial or on active service a summary general court- martial for the trial of the alleged offender unless— (a) the offence is one which he can try by a summary court-martial without any reference to that officer; or (b) he considers that there is grave reason for immediate action and such reference cannot be made without detriment to discipline. (4) Where the evidence taken in accordance with sub- rule (3) of this rule discloses an offence other than the offence which was the subject of the investigation, the commanding officer may frame suitable charge (s) on the basis of the evidence so taken as well as the investigation of the original charge.]”",
+    "role_match": true,
+    "similarity_score": 0.6202,
+    "cosine_score": 0.6202,
+    "bm25_score": 12.5403,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Army Rules 1954 Rule 182",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the rules regarding admissibility of Court of Inquiry proceedings?",
+        "word_count": 11,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under the Army Rules 1954, specifically Rule 182 and related provisions, what are the guidelines for the admissibility of proceedings of a Court of Inquiry in subsequent legal proceedings?",
+        "word_count": 29,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Precedents Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Lt. Col. Prithi Pal Singh Bedi & Ors. v. Union of India & Ors., (1982) 3 SCC 140. Rule 180 cannot be construed to mean that whenever or wherever any inquiry in respect of any person who is subject to the Act is conducted and his character or military reputation is likely to be affected, setting up of a Court of Inquiry is sine qua non",
+    "segment_id": "seg_0007",
+    "segment_role": "LAW",
+    "segment_text": "9. This Court had occasion to consider the scope of Rule 180 and it is necessary to take note of the judgments of this Court in which Rule 180 was discussed. The orders by which General Court Martial was convened were challenged by petitions filed under Article 32 of the Constitution of India in Lt. Col. Prithi Pal Singh Bedi & Ors. v. Union of India & Ors.1 One of the contentions on behalf of the petitioners therein was that it was obligatory upon the authorities to appoint a Court of Inquiry whenever an inquiry affects the character or military reputation of the persons subject to the Act and, in such an inquiry full opportunity must be afforded to such person of being present throughout the inquiry and making any statement or giving any evidence that he wishes to make and of cross-examining any witnesses. Interpreting Rule 180, this Court held that it cannot be construed to mean that whenever or wherever any 1 (1982) 3 SCC 140 inquiry in respect of any person who is subject to the Act is conducted and his character or military reputation is likely to be affected, setting up of a Court of Inquiry is sine qua non. However, this Court held as follows: “40. … Rule 180 merely makes it obligatory that whenever a Court of enquiry is set up and in the course of enquiry by the Court of enquiry character or military reputation of a person is likely to be affected then such a person must be given a full opportunity to participate in the proceedings of Court of enquiry. Court of enquiry by its very nature is likely to examine certain issues generally concerning a situation or persons. Where collective fine is desired to be imposed, a Court of enquiry may generally examine the shortfall to ascertain how many persons are responsible. In the course of such an enquiry there may be a distinct possibility of character or military reputation of a person subject to the Act likely to be affected. His participation cannot be avoided on the specious plea that no specific enquiry was directed against the person whose character or military reputation is involved. To ensure that such a person whose character or military reputation is likely to be affected by the proceedings of the Court of enquiry should be afforded full opportunity so that nothing is done at his back and without opportunity of participation, Rule 180 merely makes an enabling provision to ensure such participation.”",
+    "role_match": true,
+    "similarity_score": 0.8736,
+    "cosine_score": 0.8736,
+    "bm25_score": 71.4075,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "Rule 180 procedure for court inquiry",
+        "word_count": 6,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the requirements for conducting a court of inquiry under Rule 180?",
+        "word_count": 13,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances is a court of inquiry mandatory and what are the procedural requirements for ensuring a fair inquiry under Rule 180 of the Army Act, particularly in relation to the protection of a person's character or military reputation?",
+        "word_count": 40,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Precedents Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Major G.S. Sodhi v. Union of India, (1991) 2 SCC 382. Recording of evidence is only to find out whether there is a prima facie case to convene a court-martial",
+    "segment_id": "seg_0008",
+    "segment_role": "LAW",
+    "segment_text": "10. This Court in Major G.S. Sodhi v. Union of India2 rejected the challenge to the Court Martial proceedings while dismissing the Writ Petitions filed under Article 32 of the Constitution. The main grievance of the petitioners in that case was the violation of the procedure prescribed in Rules 22 and 23 of the Army Rules. While recording a finding that there has been substantial compliance of Rules 22 and 23, this Court has held that recording of evidence is only to find out whether there is a prima facie case to convene a court- martial. This Court was of the opinion that the object and effect of the Rules should be considered in the context bearing in mind the general principle whether such an incomplete compliance has caused any prejudice to the delinquent officer. However, it was held that if there is any violation of mandatory rules, the benefit of the same should be given to the delinquent officer. The 2 (1991) 2 SCC 382 conclusion in that case was that there was no violation of the Rules and in any event no prejudice was caused to the petitioners therein. In Union of India & Ors. v. Major A. Hussain (IC-14827)3, this Court while setting aside the judgment of the High Court of Andhra Pradesh upheld the order of conviction of the respondent by the Court Martial. While dealing with the submissions made on Rule 180, this Court relying upon Major General Inder Jit Kumar v. Union of India4 held that proceedings before a Court of Inquiry are not adversarial proceedings as the Court of Inquiry is in the nature of a fact-finding enquiry committee. This Court was of the view that it is unnecessary to examine if pre-trial investigation is adequate or not when there is sufficient evidence to sustain conviction by the Court Martial. It was further held that the requirement of proper and adequate investigation is not jurisdictional and any violation thereof does not invalidate the Court Martial unless it is shown that the accused has been prejudiced or a mandatory provision has been violated. As the 3 (1998) 1 SCC 537 4 (1997) 9 SCC 1 Respondent therein participated in the recording of summary of evidence without raising any objection, the submission regarding violation of principles of natural justice at an earlier stage was rejected by this Court.",
+    "role_match": true,
+    "similarity_score": 0.7043,
+    "cosine_score": 0.7043,
+    "bm25_score": 40.7781,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "prima facie case court martial",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What is the purpose of recording evidence in a court martial proceeding?",
+        "word_count": 12,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under what circumstances can a court martial be convened based on the prima facie case standard as established by precedent, specifically in relation to the rules governing summary of evidence and the principles of natural justice?",
+        "word_count": 36,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Precedents Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Union of India & Ors. v. Major A. Hussain (IC-14827), (1998) 1 SCC 537. Proceedings before a Court of Inquiry are not adversarial proceedings as the Court of Inquiry is in the nature of a fact-finding enquiry committee",
+    "segment_id": "seg_0007",
+    "segment_role": "LAW",
+    "segment_text": "9. This Court had occasion to consider the scope of Rule 180 and it is necessary to take note of the judgments of this Court in which Rule 180 was discussed. The orders by which General Court Martial was convened were challenged by petitions filed under Article 32 of the Constitution of India in Lt. Col. Prithi Pal Singh Bedi & Ors. v. Union of India & Ors.1 One of the contentions on behalf of the petitioners therein was that it was obligatory upon the authorities to appoint a Court of Inquiry whenever an inquiry affects the character or military reputation of the persons subject to the Act and, in such an inquiry full opportunity must be afforded to such person of being present throughout the inquiry and making any statement or giving any evidence that he wishes to make and of cross-examining any witnesses. Interpreting Rule 180, this Court held that it cannot be construed to mean that whenever or wherever any 1 (1982) 3 SCC 140 inquiry in respect of any person who is subject to the Act is conducted and his character or military reputation is likely to be affected, setting up of a Court of Inquiry is sine qua non. However, this Court held as follows: “40. … Rule 180 merely makes it obligatory that whenever a Court of enquiry is set up and in the course of enquiry by the Court of enquiry character or military reputation of a person is likely to be affected then such a person must be given a full opportunity to participate in the proceedings of Court of enquiry. Court of enquiry by its very nature is likely to examine certain issues generally concerning a situation or persons. Where collective fine is desired to be imposed, a Court of enquiry may generally examine the shortfall to ascertain how many persons are responsible. In the course of such an enquiry there may be a distinct possibility of character or military reputation of a person subject to the Act likely to be affected. His participation cannot be avoided on the specious plea that no specific enquiry was directed against the person whose character or military reputation is involved. To ensure that such a person whose character or military reputation is likely to be affected by the proceedings of the Court of enquiry should be afforded full opportunity so that nothing is done at his back and without opportunity of participation, Rule 180 merely makes an enabling provision to ensure such participation.”",
+    "role_match": true,
+    "similarity_score": 0.7001,
+    "cosine_score": 0.7001,
+    "bm25_score": 25.5913,
+    "fused_score": 0.037441,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "proceedings in a Court of Inquiry",
+        "word_count": 6,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the rules for proceedings before a Court of Inquiry?",
+        "word_count": 11,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "What are the principles governing Court of Inquiry proceedings under the Army Act, specifically regarding the rights of persons whose character or military reputation may be affected during the inquiry process?",
+        "word_count": 31,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Precedents Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Major General Inder Jit Kumar v. Union of India, (1997) 9 SCC 1. Not explicitly stated in the judgment",
+    "segment_id": "seg_0008",
+    "segment_role": "LAW",
+    "segment_text": "10. This Court in Major G.S. Sodhi v. Union of India2 rejected the challenge to the Court Martial proceedings while dismissing the Writ Petitions filed under Article 32 of the Constitution. The main grievance of the petitioners in that case was the violation of the procedure prescribed in Rules 22 and 23 of the Army Rules. While recording a finding that there has been substantial compliance of Rules 22 and 23, this Court has held that recording of evidence is only to find out whether there is a prima facie case to convene a court- martial. This Court was of the opinion that the object and effect of the Rules should be considered in the context bearing in mind the general principle whether such an incomplete compliance has caused any prejudice to the delinquent officer. However, it was held that if there is any violation of mandatory rules, the benefit of the same should be given to the delinquent officer. The 2 (1991) 2 SCC 382 conclusion in that case was that there was no violation of the Rules and in any event no prejudice was caused to the petitioners therein. In Union of India & Ors. v. Major A. Hussain (IC-14827)3, this Court while setting aside the judgment of the High Court of Andhra Pradesh upheld the order of conviction of the respondent by the Court Martial. While dealing with the submissions made on Rule 180, this Court relying upon Major General Inder Jit Kumar v. Union of India4 held that proceedings before a Court of Inquiry are not adversarial proceedings as the Court of Inquiry is in the nature of a fact-finding enquiry committee. This Court was of the view that it is unnecessary to examine if pre-trial investigation is adequate or not when there is sufficient evidence to sustain conviction by the Court Martial. It was further held that the requirement of proper and adequate investigation is not jurisdictional and any violation thereof does not invalidate the Court Martial unless it is shown that the accused has been prejudiced or a mandatory provision has been violated. As the 3 (1998) 1 SCC 537 4 (1997) 9 SCC 1 Respondent therein participated in the recording of summary of evidence without raising any objection, the submission regarding violation of principles of natural justice at an earlier stage was rejected by this Court.",
+    "role_match": true,
+    "similarity_score": 0.5605,
+    "cosine_score": 0.5605,
+    "bm25_score": 24.0218,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "court martial proceedings rules compliance",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "Major General Inder Jit Kumar v. Union India, (1997) 9 SCC 1. explicitly stated judgment",
+        "word_count": 15,
+        "valid": true,
+        "used_fallback": true,
+        "fallback_reason": "word_count_out_of_range"
+      },
+      "large_query": {
+        "text": "What are the key principles and statutory provisions governing court martial proceedings, including the requirements for recording evidence and the implications of violating mandatory rules?",
+        "word_count": 25,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  },
+  {
+    "summary_field": "Precedents Referred",
+    "summary_role": "LAW",
+    "summary_sentence": "Union of India & Ors. v. Sanjay Jethi & Anr., (2013) 16 SCC 116. Participation of a delinquent officer whose character or military reputation is likely to be affected is a categorical imperative",
+    "segment_id": "seg_0009",
+    "segment_role": "LAW",
+    "segment_text": "11. In Union of India & Ors. v. Sanjay Jethi & Anr.5 the question regarding the bias of members of the Court of Inquiry was decided in favour of the delinquent officer. The interpretation by this Court of Rule 180 is as follows: “53. In a CoI participation of a delinquent officer whose character or military reputation is likely to be affected is a categorical imperative. The participation has to be meaningful, effective and he has to be afforded adequate opportunity. It needs no special emphasis to state that Rule 180 is framed under the Army Act and it has the statutory colour and flavour. It has the binding effect on CoI. The rule provides for procedural safeguards regard being had to the fact that a person whose character and military reputation is likely to be affected is in a position to offer his explanation and in the ultimate eventuate may not be required to face disciplinary action. Thus understood, the language employed in Rule 180 5 (2013) 16 SCC 116 lays postulates of a fair, just and reasonable delineation. It is the duty of the authorities to ensure that there is proper notice to the person concerned and he is given opportunity to cross- examine the witnesses and, most importantly, nothing should take place behind his back. It is one thing to say that CoI may not always be essential or sine qua non for initiation of a court martial but another spectrum is that once the authority has exercised the power to hold such an inquiry and CoI has recommended for disciplinary action, then the recommendation of CoI is subject to judicial review. While exercising the power of judicial review it becomes obligatory to see whether there has been due compliance of the stipulates prescribed under the rule, for the language employed in the said rule is absolutely clear and unambiguous. We may not dwell upon the concept of “full opportunity” in detail. Suffice it to say that one cannot stretch the said concept at infinitum on the bedrock of grant of opportunity and fair play. It has to be tested on the touchstone of the factual matrix of each case.”",
+    "role_match": true,
+    "similarity_score": 0.7256,
+    "cosine_score": 0.7256,
+    "bm25_score": 38.6382,
+    "fused_score": 0.037705,
+    "judgment_id": "11",
+    "queries": {
+      "small_query": {
+        "text": "military reputation inquiry procedure rules",
+        "word_count": 5,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "medium_query": {
+        "text": "What are the rules for a court of inquiry affecting military reputation?",
+        "word_count": 12,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      },
+      "large_query": {
+        "text": "Under the Army Act what are the procedural safeguards for a court of inquiry where a delinquent officer's character or military reputation is likely to be affected and what are the requirements for participation and opportunity to offer explanation?",
+        "word_count": 39,
+        "valid": true,
+        "used_fallback": false,
+        "fallback_reason": null
+      }
+    }
+  }
+]

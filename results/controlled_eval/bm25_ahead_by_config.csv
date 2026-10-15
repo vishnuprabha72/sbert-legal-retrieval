@@ -1,0 +1,31 @@
+model,encoding,overlap,bm25_wins,semantic_wins,ties,bm25_ahead
+"InLegalBERT (Indian domain, no SBERT tuning)",Chunk-Pool Mean,Zero (0),0,5,0,False
+"InLegalBERT (Indian domain, no SBERT tuning)",Chunk-Pool Mean,Low (1-2),18,24,1,False
+"InLegalBERT (Indian domain, no SBERT tuning)",Chunk-Pool Mean,High (3+),45,11,16,True
+"InLegalBERT (Indian domain, no SBERT tuning)",Legacy (truncated),Zero (0),0,5,0,False
+"InLegalBERT (Indian domain, no SBERT tuning)",Legacy (truncated),Low (1-2),17,24,2,False
+"InLegalBERT (Indian domain, no SBERT tuning)",Legacy (truncated),High (3+),42,12,18,True
+Mine_Finetuned_Indian_Legal,Chunk-Pool Mean,Zero (0),1,4,0,False
+Mine_Finetuned_Indian_Legal,Chunk-Pool Mean,Low (1-2),16,24,3,False
+Mine_Finetuned_Indian_Legal,Chunk-Pool Mean,High (3+),38,16,18,True
+Mine_Finetuned_Indian_Legal,Legacy (truncated),Zero (0),1,4,0,False
+Mine_Finetuned_Indian_Legal,Legacy (truncated),Low (1-2),12,28,3,False
+Mine_Finetuned_Indian_Legal,Legacy (truncated),High (3+),34,18,20,True
+Mine_Finetuned_Indian_Legal_ChunkPool,Chunk-Pool Mean,Zero (0),1,4,0,False
+Mine_Finetuned_Indian_Legal_ChunkPool,Chunk-Pool Mean,Low (1-2),16,23,4,False
+Mine_Finetuned_Indian_Legal_ChunkPool,Chunk-Pool Mean,High (3+),36,15,21,True
+Mine_Finetuned_Indian_Legal_ChunkPool,Legacy (truncated),Zero (0),1,4,0,False
+Mine_Finetuned_Indian_Legal_ChunkPool,Legacy (truncated),Low (1-2),15,25,3,False
+Mine_Finetuned_Indian_Legal_ChunkPool,Legacy (truncated),High (3+),37,19,16,True
+MiniLM (general),Chunk-Pool Mean,Zero (0),0,5,0,False
+MiniLM (general),Chunk-Pool Mean,Low (1-2),20,22,1,False
+MiniLM (general),Chunk-Pool Mean,High (3+),38,17,17,True
+MiniLM (general),Legacy (truncated),Zero (0),0,5,0,False
+MiniLM (general),Legacy (truncated),Low (1-2),14,25,4,False
+MiniLM (general),Legacy (truncated),High (3+),32,18,22,True
+Swiss Legal SBERT (domain),Chunk-Pool Mean,Zero (0),0,5,0,False
+Swiss Legal SBERT (domain),Chunk-Pool Mean,Low (1-2),23,20,0,True
+Swiss Legal SBERT (domain),Chunk-Pool Mean,High (3+),51,15,6,True
+Swiss Legal SBERT (domain),Legacy (truncated),Zero (0),0,5,0,False
+Swiss Legal SBERT (domain),Legacy (truncated),Low (1-2),24,19,0,True
+Swiss Legal SBERT (domain),Legacy (truncated),High (3+),51,16,5,True

@@ -1,0 +1,136 @@
+# ---- Pipeline configuration ----
+
+paths:
+  raw_dir: "data/raw"                          # {id}.json + {id}_corrected_summary.json go here
+  stage0_dir: "data/stage0_segments"
+  stage1_dir: "data/stage1_alignments"
+  stage2_dir: "data/stage2_queries"
+  stage3_dir: "data/stage3_training_table"
+  models_dir: "data/models"
+
+# Rhetorical-role codes, as stored in each paragraph's rhetorical_role_llm_annotated field.
+roles:
+  - "FACT"
+  - "ISSUE"
+  - "ARG_P"
+  - "ARG_R"
+  - "REASON"
+  - "HOLDING"
+  - "ORDER"
+  - "LAW"
+  # "NONE" is intentionally excluded — boilerplate/unclassified, not a content role
+
+segment_merge:
+  role_key: "rhetorical_role_llm_annotated"   # paragraph field holding the role
+  max_segment_words: 300
+  exclude_roles: ["NONE"]
+
+# Maps each paragraph role code to where its matching content lives in
+# {id}_corrected_summary.json, and how to read it (the summary schema
+# mixes flat strings, nested objects, lists of strings, and lists of objects).
+#   type: "string"          -> summary[key] is a plain string
+#   type: "list"             -> summary[key] is a list of strings/sentences
+#   type: "nested_string"    -> summary[key][subkey] is a plain string
+#   type: "list_of_objects"  -> summary[key] is a list of dicts; concatenate `fields` per item
+summary_field_specs:
+  FACT:    { key: "Facts", type: "string" }
+  ISSUE:   { key: "Issues or Questions", type: "list" }
+  ARG_P:   { key: "Arguments", subkey: "Petitioner", type: "nested_string" }
+  ARG_R:   { key: "Arguments", subkey: "Respondent", type: "nested_string" }
+  REASON:  { key: "Reasoning of the Questions", type: "list" }
+  HOLDING: { key: "Final Judgment", type: "string" }
+  ORDER:   { key: "Final Judgment", type: "string" }
+  # LAW paragraphs discuss both statutory provisions and cited precedents,
+  # so align against BOTH summary sections — a role can map to a list of specs.
+  LAW:
+    - { key: "Statutes Referred", type: "list_of_objects", fields: ["Name", "Principle"] }
+    - { key: "Precedents Referred", type: "list_of_objects", fields: ["Name", "Principle"] }
+
+alignment:
+  threshold: 0.6                # cosine similarity cutoff to accept a summary-sentence match
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  # --- hybrid BM25 + cosine search (global, not role-restricted) ---
+  # A candidate is accepted if EITHER of these clears its own bar:
+  #   cosine_score >= threshold        (paraphrase/semantic match)
+  #   bm25_score   >= bm25_min_score   (exact lexical match: citations, section numbers)
+  # bm25_min_score is on BM25Okapi's raw (unbounded) scale; 8.0 is a
+  # value calibrated on a single-judgment pilot.
+  bm25_min_score: 8.0
+  rrf_k: 60                     # Reciprocal Rank Fusion constant (60 = standard IR default, rarely needs tuning)
+  role_bonus: 0.15               # FRACTION of the max possible RRF score (not an absolute score!) --
+                                  # nudges toward segments whose own role matches the summary sentence's
+                                  # expected role, on close calls, without ever letting the nudge alone
+                                  # overturn a genuinely stronger cross-role candidate
+
+near_duplicate_filter:
+  cosine_threshold: 0.93        # drop near-duplicate segments within a role before Llama generation
+
+query_generation:
+  # served via IBM watsonx.ai — set WATSONX_API_KEY, WATSONX_PROJECT_ID, WATSONX_URL
+  # as environment variables. Check your watsonx project's model catalog for the
+  # exact available model id string.
+  llama_model: "meta-llama/llama-3-3-70b-instruct"
+  word_limits:
+    small_query: [5, 8]
+    medium_query: [8, 20]
+    large_query: [15, 40]
+  max_retries: 2                # regenerate a single field if it fails length validation
+  lexical_overlap_max: 0.6      # reject queries too lexically similar to source text
+  max_workers: 5                 # judgments processed concurrently in stage2 (thread pool -- this is an
+                                  # I/O-bound network workload, not CPU-bound, so threading is appropriate.
+                                  # Start conservative and check data/logs/llama_generation_failures.log
+                                  # for "rate_limit_retry" entries -- if you see many, lower this; if you
+                                  # see none after a while, you can likely raise it. Override per-run with
+                                  # `--workers N` on the command line without editing this file.
+
+negatives:
+  strategy: "in_batch"          # "in_batch" (Option A, default) or "hard_negative" (Option B)
+  hard_negative_percentile_band: [40, 70]   # only used if strategy == hard_negative
+
+split:
+  train: 0.8
+  val: 0.1
+  test: 0.1
+  seed: 42
+  # Fixed held-out test set: created the first time stage4 runs without this
+  # file, then reused unchanged, so models trained on different amounts of
+  # data (learning_curve.py) are evaluated on the same judgments.
+  fixed_holdout_file: "data/fixed_holdout_judgment_ids.txt"
+  fixed_holdout_size: 60   # only used the FIRST time the file above is created
+
+training:
+  base_model: "sentence-transformers/all-MiniLM-L6-v2"
+  batch_size: 32
+  epochs: 4
+  warmup_ratio: 0.1
+  learning_rate: 2.0e-5   # NOTE: must have a decimal point (2.0e-5, not 2e-5) --
+                          # PyYAML's safe_load parses "2e-5" as a STRING per strict
+                          # YAML 1.1 spec, not a float, which crashes deep inside
+                          # torch's optimizer with "'<=' not supported between
+                          # instances of 'float' and 'str'". Always include the
+                          # decimal point for any scientific-notation number here.
+  min_source_fraction_per_batch: 0.3   # each batch should have >= this fraction of each positive_source
+  output_dir: "data/models/sbert-legal-v1"
+  chunk_pool:
+    enabled: true          # true = fix the truncation flaw: any query/positive over max_tokens is split
+                            # into token-bounded chunks, each chunk embedded WITH gradients, then mean-
+                            # pooled into that text's training embedding, instead of silently truncating
+                            # at max_seq_length before the transformer ever sees the rest.
+                            # false = original behavior (plain model.fit(), truncates at max_seq_length) --
+                            # kept available for A/B comparison against this fix, not because it's recommended.
+                            # NOTE: bypasses model.fit() entirely when true (manual training loop) -- see
+                            # src/common/chunk_pool_encoding.py's module docstring for why.
+    max_tokens: null       # null = use the base model's own max_seq_length automatically (256 for
+                            # all-MiniLM-L6-v2). Only set this explicitly if you deliberately want a
+                            # smaller/larger per-chunk budget than the model's native limit.
+    pooling: "mean"        # "mean" (default, represents the paragraph's overall content) or "max"
+    scale: 20.0             # cosine-similarity scale factor before cross-entropy -- matches sentence-
+                            # transformers' MultipleNegativesRankingLoss default, kept identical here so
+                            # loss magnitudes are comparable to the legacy path's training runs.
+  checkpointing:
+    enabled: false                      # true = also save periodic intermediate checkpoints, not just the
+                                          # single best-epoch final model (useful to inspect/compare specific
+                                          # epochs later, or resume an interrupted run)
+    checkpoint_dir: "data/models/sbert-legal-v1/checkpoints"
+    save_steps: 500
+    save_total_limit: 3                  # keep only the N most recent checkpoints (older ones auto-deleted)

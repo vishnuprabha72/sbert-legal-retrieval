@@ -1,0 +1,25 @@
+# secrets
+.env
+
+# python / environments
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+
+# logs
+*.log
+data/logs/
+
+# intermediate pipeline outputs and model weights (regenerate with the pipeline,
+# or download the models from Hugging Face; see README)
+data/raw/*
+data/stage0_segments/*
+data/stage1_alignments/*
+data/stage2_queries/*
+data/models/*
+!data/*/.gitkeep
+*.safetensors
+*.bin
+*.zip

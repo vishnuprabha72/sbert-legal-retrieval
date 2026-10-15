@@ -1,0 +1,7 @@
+query_style,N,semantic_hit1,semantic_mrr,bm25_hit1,bm25_mrr,leader_hit1,leader_mrr
+contrast_negation,6,0.1,0.2819,0.0,0.2181,semantic,semantic
+fact_pattern,18,0.1389,0.2822,0.2222,0.3648,bm25,bm25
+low_overlap,24,0.1167,0.2337,0.0833,0.1728,semantic,semantic
+natural_question,24,0.2167,0.3586,0.4167,0.5638,bm25,bm25
+normal_search,24,0.3917,0.5447,0.9167,0.9514,bm25,bm25
+paraphrase,24,0.2,0.3465,0.2083,0.3643,bm25,bm25
