@@ -1,0 +1,8 @@
+comparison,delta_mrr,ci95_low,ci95_high,p_permutation,p_wilcoxon,hit10_discordant,p_mcnemar
+Legacy-trained (legacy) minus MiniLM (legacy),0.0064,-0.0555,0.0678,0.8407,0.7003,12 vs 9,0.6636
+Legacy-trained (legacy) minus InLegalBERT (legacy),0.1099,0.0286,0.1916,0.0089,0.0099,26 vs 12,0.0336
+Legacy-trained (legacy) minus Swiss Legal SBERT (legacy),0.2057,0.128,0.2827,0.0,0.0,48 vs 14,0.0
+Legacy-trained (legacy) minus Legacy-trained (CP-mean),0.0491,0.0199,0.0821,0.0014,0.0,7 vs 1,0.0703
+MiniLM (legacy) minus MiniLM (CP-mean),0.0535,0.0196,0.0898,0.0032,0.0,7 vs 1,0.0703
+CP-trained (legacy) minus CP-trained (CP-mean),0.0318,-0.002,0.0656,0.0697,0.0,8 vs 1,0.0391
+Legacy-trained (legacy) minus CP-trained (legacy),0.0153,-0.0196,0.0509,0.4063,0.1062,2 vs 3,1.0

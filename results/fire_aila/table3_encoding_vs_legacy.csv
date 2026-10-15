@@ -1,0 +1,12 @@
+model,inference,MAP,vs_legacy_delta,vs_legacy_ci95_low,vs_legacy_ci95_high,vs_legacy_wins,vs_legacy_losses,vs_legacy_p_permutation,vs_legacy_p_wilcoxon
+Legacy-trained,legacy,0.2614,,,,,,,
+Legacy-trained,CP-mean,0.2966,0.0352,-0.0476,0.1195,27.0,21.0,0.4207,0.3668
+Legacy-trained,CP-max,0.2548,-0.0066,-0.0872,0.0732,21.0,28.0,0.8784,0.8229
+CP-trained,legacy,0.2731,,,,,,,
+CP-trained,CP-mean,0.2807,0.0076,-0.0889,0.1022,23.0,26.0,0.8821,0.6652
+CP-trained,CP-max,0.2587,-0.0144,-0.1144,0.082,25.0,24.0,0.7824,0.901
+MiniLM,legacy,0.168,,,,,,,
+MiniLM,CP-mean,0.2372,0.0692,0.0014,0.1465,32.0,18.0,0.0733,0.0297
+MiniLM,CP-max,0.2209,0.0529,-0.0199,0.1261,33.0,16.0,0.1679,0.0167
+Legacy-trained minus CP-trained,CP-mean,,0.0159,-0.0102,0.0505,23.0,21.0,0.3942,0.861
+Legacy-trained minus CP-trained,legacy,,-0.0117,-0.062,0.0408,19.0,28.0,0.6776,0.3097

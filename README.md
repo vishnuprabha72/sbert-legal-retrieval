@@ -49,8 +49,13 @@ Stage 6  held-out evaluation: retrieval by role / query style + style-parity dia
 | `data/samples/stage2_queries_sample.json` | Example Stage 2 output for one judgment (data format reference) |
 | `evaluation/controlled_eval_app.py` | Section 5.1: BM25 vs. five models × two encodings on the controlled query set (Streamlit; batch and single-query modes) |
 | `evaluation/summarize_controlled_eval.py` | Rebuilds Table 1 (with Wilson intervals and sign tests) and the per-query-type breakdown from the per-query results |
+| `evaluation/significance_tests.py` | Paired significance tests for Tables 1–2: McNemar, bootstrap CIs, permutation and Wilcoxon tests, Holm correction, family-level cluster bootstrap, overlap trend test |
 | `evaluation/multi_judgment_app.py` | Interactive hybrid retrieval across several uploaded judgments |
 | `data/controlled_eval/controlled_evaluation_query_set.csv` | The 120 expert-validated queries (C14, C54) with gold paragraphs, roles, query style and overlap labels |
+| `evaluation/fire_aila_eval_app.py` | Section 5.2: FIRE/AILA judgment retrieval over either pool — BM25, five models × three inference encodings, six query formulations, five BM25 weights (Streamlit); writes the rank and summary files in `results/fire_aila/` |
+| `evaluation/fire_aila_significance.py` | Section 5.2: rebuilds per-query AP/RR from the FIRE/AILA rank files and regenerates Tables 3–4, the pool-size comparison and the hybrid tests |
+| `results/fire_aila/` | Section 5.2 outputs for both pools: rank of every relevant judgment per query and configuration, per-configuration summaries, per-query AP/RR, and the test results |
+| `data/fire_aila/pool_186_judgment_ids.txt` | The 186-judgment FIRE/AILA pool (Section 4): every judgment relevant to at least one of the 50 AILA 2019 queries |
 | `results/controlled_eval/` | Section 5.1 outputs: per-query results for all ten configurations, Table 1, Table 2 leaderboard, per-query-type table |
 
 ## Setup
@@ -89,7 +94,10 @@ and training and evaluation run directly. The queries and summaries were generat
 with Llama 3.3 (Built with Llama).
 
 **FIRE/AILA.** The FIRE 2019 AILA collection, queries and relevance judgments must be
-obtained from the track organisers; they are not included.
+obtained from the track organisers; they are not included. The 186-judgment pool is the
+union of the judgments relevant to the 50 queries (195 query–judgment pairs); its IDs are
+listed in `data/fire_aila/pool_186_judgment_ids.txt`. The 2,914-judgment pool is the full
+AILA 2019 collection.
 
 ## Running
 
@@ -112,6 +120,32 @@ uv run python ablation_negatives.py
 Stages 0–3 can also be run on their own with `--limit N`. Stages 0–2 skip judgments
 whose output already exists; pass `--force` to regenerate them.
 
+### FIRE/AILA judgment retrieval (Section 5.2)
+
+```bash
+uv run streamlit run evaluation/fire_aila_eval_app.py
+```
+
+The app needs the AILA 2019 queries (`AILA_Q1||<text>` per line), the pre-generated issue
+statements per query (JSON), a folder of judgment texts named by case ID, and the AILA
+relevance judgments as JSON (`{"AILA_Q1": ["C14", "C9"], ...}`), by default under
+`data/fire_aila/` (paths can also be set with `AILA_QUERIES`, `AILA_ISSUES`, `AILA_DOCS` and
+`AILA_QRELS`). None of these are included; the AILA data is available from the organisers.
+
+The FIRE/AILA runs score all 50 AILA 2019 queries against both candidate pools for every
+model, inference encoding, query formulation and BM25 weight (0, 0.3, 0.5, 0.7, 1). The
+2,914-judgment pool was run with chunk-pool mean inference only. The released rank files
+record where each relevant judgment was ranked, which is enough to recompute every
+per-query score and test reported in the paper:
+
+```bash
+uv run python evaluation/fire_aila_significance.py
+```
+
+The script first checks that the rebuilt scores reproduce the summary files, then writes
+Tables 3–4 and the related tests to `results/fire_aila/`. The paper reports the Facts
+formulation; the files cover all six.
+
 ### Controlled paragraph-retrieval evaluation (Section 5.1)
 
 ```bash
@@ -128,6 +162,7 @@ judgments' own paragraph numbering. Download the per-query CSV, then:
 
 ```bash
 uv run python evaluation/summarize_controlled_eval.py --input <downloaded per-query csv>
+uv run python evaluation/significance_tests.py   --input <downloaded per-query csv>
 ```
 
 The fine-tuned models are read from `data/models/sbert-legal-v1-legacy` and

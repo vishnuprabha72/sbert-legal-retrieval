@@ -1,0 +1,451 @@
+Model x Encoding,Variant,BM25 weight,FAISS weight,MAP,P@10,BPREF,MRR
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Facts only,0.0,1.0,0.2731,0.12,0.2143,0.416
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Facts only,0.3,0.7,0.28,0.152,0.1939,0.4164
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Facts only,0.5,0.5,0.2766,0.154,0.1822,0.3743
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Facts only,0.7,0.3,0.2663,0.154,0.1994,0.3789
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 1 only,0.0,1.0,0.1787,0.088,0.0963,0.2924
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 1 only,0.3,0.7,0.2265,0.104,0.1487,0.3058
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 1 only,0.5,0.5,0.2216,0.084,0.1536,0.2813
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 1 only,0.7,0.3,0.2126,0.084,0.1404,0.2558
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 2 only,0.0,1.0,0.145,0.082,0.074,0.2429
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 2 only,0.3,0.7,0.1861,0.102,0.1124,0.2736
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 2 only,0.5,0.5,0.2181,0.108,0.1487,0.3183
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 2 only,0.7,0.3,0.2086,0.104,0.1529,0.2957
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 3 only,0.0,1.0,0.1384,0.074,0.0796,0.178
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 3 only,0.3,0.7,0.1777,0.09,0.1206,0.2611
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 3 only,0.5,0.5,0.1928,0.102,0.1339,0.2734
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 3 only,0.7,0.3,0.2064,0.116,0.1554,0.3014
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issues combined (I1 | I2 | I3),0.0,1.0,0.1949,0.1,0.1178,0.2766
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issues combined (I1 | I2 | I3),0.3,0.7,0.256,0.128,0.1772,0.3619
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issues combined (I1 | I2 | I3),0.5,0.5,0.2737,0.124,0.1784,0.3666
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issues combined (I1 | I2 | I3),0.7,0.3,0.2735,0.122,0.193,0.3368
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),RRF(Facts+I1+I2+I3),0.0,1.0,0.2229,0.122,0.1287,0.3231
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),RRF(Facts+I1+I2+I3),0.3,0.7,0.2612,0.164,0.1622,0.3696
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),RRF(Facts+I1+I2+I3),0.5,0.5,0.271,0.15,0.184,0.3815
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),RRF(Facts+I1+I2+I3),0.7,0.3,0.246,0.134,0.1625,0.3285
+Mine_Finetuned_Indian_Legal_ChunkPool — Legacy (truncated),RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Facts only,0.0,1.0,0.2807,0.164,0.1951,0.3746
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Facts only,0.3,0.7,0.3034,0.164,0.2259,0.3863
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Facts only,0.5,0.5,0.2989,0.158,0.2266,0.4032
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Facts only,0.7,0.3,0.2845,0.156,0.214,0.4013
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 1 only,0.0,1.0,0.2244,0.094,0.1533,0.3155
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 1 only,0.3,0.7,0.2284,0.088,0.1689,0.2894
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 1 only,0.5,0.5,0.2156,0.088,0.148,0.2555
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 1 only,0.7,0.3,0.2147,0.082,0.153,0.2683
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 2 only,0.0,1.0,0.2115,0.1,0.1475,0.2877
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 2 only,0.3,0.7,0.2489,0.114,0.2023,0.3169
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 2 only,0.5,0.5,0.2241,0.11,0.1718,0.3049
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 2 only,0.7,0.3,0.2035,0.112,0.1467,0.2864
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 3 only,0.0,1.0,0.2052,0.112,0.1486,0.2807
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 3 only,0.3,0.7,0.2287,0.12,0.173,0.2972
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 3 only,0.5,0.5,0.2224,0.118,0.1676,0.2875
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 3 only,0.7,0.3,0.2152,0.122,0.1634,0.2806
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.0,1.0,0.2429,0.12,0.1632,0.3355
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.3,0.7,0.2851,0.13,0.2167,0.3642
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.5,0.5,0.284,0.138,0.2121,0.3445
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.7,0.3,0.28,0.134,0.2117,0.3423
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.0,1.0,0.2285,0.142,0.1481,0.318
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.3,0.7,0.2444,0.136,0.1645,0.3277
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.5,0.5,0.2347,0.12,0.1576,0.294
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.7,0.3,0.2339,0.126,0.1584,0.3037
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Facts only,0.0,1.0,0.2587,0.148,0.1883,0.3623
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Facts only,0.3,0.7,0.2973,0.158,0.2236,0.4338
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Facts only,0.5,0.5,0.2848,0.154,0.2155,0.4369
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Facts only,0.7,0.3,0.2776,0.146,0.2103,0.451
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 1 only,0.0,1.0,0.2124,0.094,0.1479,0.2896
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 1 only,0.3,0.7,0.2307,0.094,0.1591,0.3033
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 1 only,0.5,0.5,0.2205,0.094,0.154,0.2741
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 1 only,0.7,0.3,0.2128,0.078,0.1524,0.2701
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 2 only,0.0,1.0,0.2057,0.102,0.1394,0.2617
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 2 only,0.3,0.7,0.2199,0.108,0.1559,0.2848
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 2 only,0.5,0.5,0.2196,0.112,0.1539,0.3132
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 2 only,0.7,0.3,0.2154,0.106,0.1637,0.3048
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 3 only,0.0,1.0,0.1809,0.108,0.1196,0.2579
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 3 only,0.3,0.7,0.2135,0.12,0.1503,0.2951
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 3 only,0.5,0.5,0.2205,0.124,0.1593,0.3005
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 3 only,0.7,0.3,0.221,0.122,0.1752,0.2941
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.0,1.0,0.2404,0.124,0.1792,0.3321
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.3,0.7,0.2904,0.136,0.2224,0.3994
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.5,0.5,0.2843,0.142,0.2197,0.3448
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.7,0.3,0.2689,0.134,0.2006,0.3175
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.0,1.0,0.2399,0.14,0.1673,0.3411
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.3,0.7,0.2699,0.138,0.1803,0.3598
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.5,0.5,0.2514,0.13,0.1747,0.3299
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.7,0.3,0.2292,0.128,0.1527,0.303
+Mine_Finetuned_Indian_Legal_ChunkPool — Chunk-Pool Max,RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+MiniLM (general) — Legacy (truncated),Facts only,0.0,1.0,0.168,0.092,0.1044,0.2746
+MiniLM (general) — Legacy (truncated),Facts only,0.3,0.7,0.2169,0.116,0.1386,0.3317
+MiniLM (general) — Legacy (truncated),Facts only,0.5,0.5,0.2553,0.14,0.1806,0.3906
+MiniLM (general) — Legacy (truncated),Facts only,0.7,0.3,0.2676,0.138,0.1999,0.4061
+MiniLM (general) — Legacy (truncated),Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+MiniLM (general) — Legacy (truncated),Issue 1 only,0.0,1.0,0.148,0.086,0.0817,0.2369
+MiniLM (general) — Legacy (truncated),Issue 1 only,0.3,0.7,0.2016,0.094,0.1268,0.2709
+MiniLM (general) — Legacy (truncated),Issue 1 only,0.5,0.5,0.2092,0.088,0.138,0.2577
+MiniLM (general) — Legacy (truncated),Issue 1 only,0.7,0.3,0.2105,0.074,0.147,0.2586
+MiniLM (general) — Legacy (truncated),Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+MiniLM (general) — Legacy (truncated),Issue 2 only,0.0,1.0,0.0873,0.046,0.0404,0.1503
+MiniLM (general) — Legacy (truncated),Issue 2 only,0.3,0.7,0.1366,0.078,0.093,0.2313
+MiniLM (general) — Legacy (truncated),Issue 2 only,0.5,0.5,0.1857,0.09,0.1165,0.2959
+MiniLM (general) — Legacy (truncated),Issue 2 only,0.7,0.3,0.1887,0.096,0.1316,0.2719
+MiniLM (general) — Legacy (truncated),Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+MiniLM (general) — Legacy (truncated),Issue 3 only,0.0,1.0,0.1322,0.072,0.0811,0.2479
+MiniLM (general) — Legacy (truncated),Issue 3 only,0.3,0.7,0.1508,0.09,0.0765,0.2313
+MiniLM (general) — Legacy (truncated),Issue 3 only,0.5,0.5,0.1912,0.112,0.1247,0.2942
+MiniLM (general) — Legacy (truncated),Issue 3 only,0.7,0.3,0.2051,0.108,0.1534,0.2943
+MiniLM (general) — Legacy (truncated),Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+MiniLM (general) — Legacy (truncated),Issues combined (I1 | I2 | I3),0.0,1.0,0.1592,0.084,0.0986,0.2691
+MiniLM (general) — Legacy (truncated),Issues combined (I1 | I2 | I3),0.3,0.7,0.2194,0.116,0.1456,0.3247
+MiniLM (general) — Legacy (truncated),Issues combined (I1 | I2 | I3),0.5,0.5,0.2582,0.122,0.1846,0.355
+MiniLM (general) — Legacy (truncated),Issues combined (I1 | I2 | I3),0.7,0.3,0.2626,0.122,0.188,0.3468
+MiniLM (general) — Legacy (truncated),Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+MiniLM (general) — Legacy (truncated),RRF(Facts+I1+I2+I3),0.0,1.0,0.1661,0.092,0.1133,0.2947
+MiniLM (general) — Legacy (truncated),RRF(Facts+I1+I2+I3),0.3,0.7,0.198,0.134,0.1215,0.2894
+MiniLM (general) — Legacy (truncated),RRF(Facts+I1+I2+I3),0.5,0.5,0.2267,0.134,0.1439,0.3042
+MiniLM (general) — Legacy (truncated),RRF(Facts+I1+I2+I3),0.7,0.3,0.2278,0.128,0.1409,0.2991
+MiniLM (general) — Legacy (truncated),RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+MiniLM (general) — Chunk-Pool Mean,Facts only,0.0,1.0,0.2372,0.128,0.1627,0.3539
+MiniLM (general) — Chunk-Pool Mean,Facts only,0.3,0.7,0.2778,0.154,0.2103,0.3971
+MiniLM (general) — Chunk-Pool Mean,Facts only,0.5,0.5,0.2833,0.148,0.2182,0.4141
+MiniLM (general) — Chunk-Pool Mean,Facts only,0.7,0.3,0.2771,0.156,0.2098,0.4157
+MiniLM (general) — Chunk-Pool Mean,Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+MiniLM (general) — Chunk-Pool Mean,Issue 1 only,0.0,1.0,0.2003,0.084,0.1373,0.2551
+MiniLM (general) — Chunk-Pool Mean,Issue 1 only,0.3,0.7,0.219,0.098,0.1505,0.2642
+MiniLM (general) — Chunk-Pool Mean,Issue 1 only,0.5,0.5,0.2215,0.082,0.1427,0.2625
+MiniLM (general) — Chunk-Pool Mean,Issue 1 only,0.7,0.3,0.2051,0.076,0.1476,0.2418
+MiniLM (general) — Chunk-Pool Mean,Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+MiniLM (general) — Chunk-Pool Mean,Issue 2 only,0.0,1.0,0.1625,0.1,0.1073,0.2279
+MiniLM (general) — Chunk-Pool Mean,Issue 2 only,0.3,0.7,0.2242,0.11,0.1625,0.3051
+MiniLM (general) — Chunk-Pool Mean,Issue 2 only,0.5,0.5,0.2164,0.112,0.1623,0.2837
+MiniLM (general) — Chunk-Pool Mean,Issue 2 only,0.7,0.3,0.2077,0.108,0.1595,0.2867
+MiniLM (general) — Chunk-Pool Mean,Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+MiniLM (general) — Chunk-Pool Mean,Issue 3 only,0.0,1.0,0.1761,0.1,0.1062,0.2815
+MiniLM (general) — Chunk-Pool Mean,Issue 3 only,0.3,0.7,0.2034,0.118,0.1396,0.2662
+MiniLM (general) — Chunk-Pool Mean,Issue 3 only,0.5,0.5,0.2184,0.12,0.1543,0.31
+MiniLM (general) — Chunk-Pool Mean,Issue 3 only,0.7,0.3,0.218,0.12,0.1644,0.3082
+MiniLM (general) — Chunk-Pool Mean,Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+MiniLM (general) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.0,1.0,0.2529,0.126,0.1934,0.3513
+MiniLM (general) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.3,0.7,0.2788,0.138,0.2063,0.3565
+MiniLM (general) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.5,0.5,0.2912,0.134,0.2206,0.3564
+MiniLM (general) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.7,0.3,0.2723,0.132,0.205,0.3346
+MiniLM (general) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+MiniLM (general) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.0,1.0,0.2695,0.14,0.2192,0.3949
+MiniLM (general) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.3,0.7,0.2563,0.142,0.1747,0.339
+MiniLM (general) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.5,0.5,0.2559,0.138,0.1753,0.3447
+MiniLM (general) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.7,0.3,0.2386,0.128,0.1646,0.3176
+MiniLM (general) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+MiniLM (general) — Chunk-Pool Max,Facts only,0.0,1.0,0.2209,0.112,0.1553,0.3608
+MiniLM (general) — Chunk-Pool Max,Facts only,0.3,0.7,0.3005,0.156,0.23,0.4505
+MiniLM (general) — Chunk-Pool Max,Facts only,0.5,0.5,0.2891,0.154,0.2118,0.4348
+MiniLM (general) — Chunk-Pool Max,Facts only,0.7,0.3,0.2834,0.15,0.2173,0.424
+MiniLM (general) — Chunk-Pool Max,Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+MiniLM (general) — Chunk-Pool Max,Issue 1 only,0.0,1.0,0.1429,0.058,0.0853,0.2268
+MiniLM (general) — Chunk-Pool Max,Issue 1 only,0.3,0.7,0.2134,0.088,0.141,0.2944
+MiniLM (general) — Chunk-Pool Max,Issue 1 only,0.5,0.5,0.2122,0.086,0.1437,0.2548
+MiniLM (general) — Chunk-Pool Max,Issue 1 only,0.7,0.3,0.2056,0.072,0.1437,0.2511
+MiniLM (general) — Chunk-Pool Max,Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+MiniLM (general) — Chunk-Pool Max,Issue 2 only,0.0,1.0,0.128,0.06,0.0725,0.1945
+MiniLM (general) — Chunk-Pool Max,Issue 2 only,0.3,0.7,0.194,0.098,0.1342,0.2841
+MiniLM (general) — Chunk-Pool Max,Issue 2 only,0.5,0.5,0.2245,0.11,0.1734,0.322
+MiniLM (general) — Chunk-Pool Max,Issue 2 only,0.7,0.3,0.2103,0.108,0.1565,0.2965
+MiniLM (general) — Chunk-Pool Max,Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+MiniLM (general) — Chunk-Pool Max,Issue 3 only,0.0,1.0,0.1317,0.086,0.0771,0.2179
+MiniLM (general) — Chunk-Pool Max,Issue 3 only,0.3,0.7,0.1977,0.122,0.1341,0.298
+MiniLM (general) — Chunk-Pool Max,Issue 3 only,0.5,0.5,0.2131,0.128,0.1571,0.2999
+MiniLM (general) — Chunk-Pool Max,Issue 3 only,0.7,0.3,0.2197,0.128,0.1673,0.3003
+MiniLM (general) — Chunk-Pool Max,Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+MiniLM (general) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.0,1.0,0.1551,0.086,0.088,0.246
+MiniLM (general) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.3,0.7,0.2537,0.116,0.1662,0.3633
+MiniLM (general) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.5,0.5,0.2845,0.146,0.2252,0.3431
+MiniLM (general) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.7,0.3,0.273,0.134,0.2029,0.3275
+MiniLM (general) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+MiniLM (general) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.0,1.0,0.1886,0.102,0.1283,0.3332
+MiniLM (general) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.3,0.7,0.2661,0.142,0.1749,0.3759
+MiniLM (general) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.5,0.5,0.2942,0.154,0.2228,0.3775
+MiniLM (general) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.7,0.3,0.2554,0.134,0.1751,0.3312
+MiniLM (general) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+Swiss Legal SBERT (domain) — Legacy (truncated),Facts only,0.0,1.0,0.2012,0.114,0.1256,0.2782
+Swiss Legal SBERT (domain) — Legacy (truncated),Facts only,0.3,0.7,0.2836,0.14,0.2008,0.43
+Swiss Legal SBERT (domain) — Legacy (truncated),Facts only,0.5,0.5,0.3015,0.154,0.2303,0.4606
+Swiss Legal SBERT (domain) — Legacy (truncated),Facts only,0.7,0.3,0.2892,0.15,0.2204,0.4506
+Swiss Legal SBERT (domain) — Legacy (truncated),Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 1 only,0.0,1.0,0.0915,0.054,0.0378,0.1339
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 1 only,0.3,0.7,0.1569,0.076,0.0811,0.2245
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 1 only,0.5,0.5,0.191,0.08,0.1258,0.2537
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 1 only,0.7,0.3,0.195,0.08,0.1328,0.2339
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 2 only,0.0,1.0,0.0878,0.052,0.0543,0.1152
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 2 only,0.3,0.7,0.1281,0.074,0.0889,0.2239
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 2 only,0.5,0.5,0.1632,0.092,0.107,0.2515
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 2 only,0.7,0.3,0.1905,0.106,0.1391,0.2737
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 3 only,0.0,1.0,0.0953,0.046,0.0498,0.1531
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 3 only,0.3,0.7,0.1327,0.068,0.0733,0.19
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 3 only,0.5,0.5,0.1659,0.094,0.1062,0.2442
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 3 only,0.7,0.3,0.1975,0.116,0.1472,0.3131
+Swiss Legal SBERT (domain) — Legacy (truncated),Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+Swiss Legal SBERT (domain) — Legacy (truncated),Issues combined (I1 | I2 | I3),0.0,1.0,0.136,0.082,0.0682,0.1849
+Swiss Legal SBERT (domain) — Legacy (truncated),Issues combined (I1 | I2 | I3),0.3,0.7,0.2123,0.096,0.1442,0.2836
+Swiss Legal SBERT (domain) — Legacy (truncated),Issues combined (I1 | I2 | I3),0.5,0.5,0.239,0.118,0.1677,0.3147
+Swiss Legal SBERT (domain) — Legacy (truncated),Issues combined (I1 | I2 | I3),0.7,0.3,0.2479,0.124,0.1787,0.2924
+Swiss Legal SBERT (domain) — Legacy (truncated),Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+Swiss Legal SBERT (domain) — Legacy (truncated),RRF(Facts+I1+I2+I3),0.0,1.0,0.1851,0.1,0.1036,0.2907
+Swiss Legal SBERT (domain) — Legacy (truncated),RRF(Facts+I1+I2+I3),0.3,0.7,0.2294,0.12,0.1485,0.3419
+Swiss Legal SBERT (domain) — Legacy (truncated),RRF(Facts+I1+I2+I3),0.5,0.5,0.2345,0.14,0.1577,0.3317
+Swiss Legal SBERT (domain) — Legacy (truncated),RRF(Facts+I1+I2+I3),0.7,0.3,0.2339,0.124,0.1681,0.3246
+Swiss Legal SBERT (domain) — Legacy (truncated),RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Facts only,0.0,1.0,0.2194,0.112,0.1467,0.331
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Facts only,0.3,0.7,0.2787,0.138,0.2174,0.4339
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Facts only,0.5,0.5,0.2799,0.134,0.2217,0.4319
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Facts only,0.7,0.3,0.2819,0.146,0.2201,0.4464
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 1 only,0.0,1.0,0.1618,0.094,0.104,0.2468
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 1 only,0.3,0.7,0.2204,0.088,0.1649,0.3109
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 1 only,0.5,0.5,0.2119,0.09,0.1572,0.2708
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 1 only,0.7,0.3,0.2,0.076,0.1408,0.2498
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 2 only,0.0,1.0,0.1112,0.062,0.0648,0.1562
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 2 only,0.3,0.7,0.1691,0.09,0.1044,0.2495
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 2 only,0.5,0.5,0.2051,0.106,0.1576,0.2802
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 2 only,0.7,0.3,0.1998,0.104,0.1522,0.2797
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 3 only,0.0,1.0,0.1333,0.076,0.0814,0.1824
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 3 only,0.3,0.7,0.1828,0.086,0.1309,0.2613
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 3 only,0.5,0.5,0.208,0.104,0.1488,0.3157
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 3 only,0.7,0.3,0.2102,0.114,0.1569,0.3201
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.0,1.0,0.2236,0.116,0.1634,0.3301
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.3,0.7,0.272,0.132,0.2048,0.3875
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.5,0.5,0.2787,0.138,0.2189,0.3654
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.7,0.3,0.2703,0.134,0.1985,0.3389
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.0,1.0,0.2192,0.108,0.1565,0.3605
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.3,0.7,0.2669,0.13,0.2073,0.3572
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.5,0.5,0.2439,0.13,0.1713,0.3247
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.7,0.3,0.2329,0.118,0.1631,0.3291
+Swiss Legal SBERT (domain) — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Facts only,0.0,1.0,0.1744,0.082,0.1198,0.2855
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Facts only,0.3,0.7,0.2624,0.14,0.1964,0.4355
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Facts only,0.5,0.5,0.3049,0.152,0.237,0.4666
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Facts only,0.7,0.3,0.2979,0.152,0.2393,0.4594
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 1 only,0.0,1.0,0.1089,0.05,0.0502,0.2089
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 1 only,0.3,0.7,0.1772,0.072,0.1209,0.2772
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 1 only,0.5,0.5,0.1912,0.088,0.1319,0.27
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 1 only,0.7,0.3,0.1949,0.078,0.1304,0.2482
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 2 only,0.0,1.0,0.1135,0.052,0.0656,0.1809
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 2 only,0.3,0.7,0.1512,0.082,0.1012,0.2227
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 2 only,0.5,0.5,0.2198,0.098,0.1661,0.3119
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 2 only,0.7,0.3,0.2029,0.108,0.157,0.2858
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 3 only,0.0,1.0,0.1052,0.06,0.0541,0.1684
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 3 only,0.3,0.7,0.1406,0.08,0.0644,0.2315
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 3 only,0.5,0.5,0.201,0.114,0.1371,0.3182
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 3 only,0.7,0.3,0.2167,0.12,0.1636,0.3229
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.0,1.0,0.137,0.078,0.08,0.2076
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.3,0.7,0.2276,0.116,0.1583,0.3488
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.5,0.5,0.2863,0.144,0.2294,0.3774
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.7,0.3,0.2732,0.142,0.1966,0.3298
+Swiss Legal SBERT (domain) — Chunk-Pool Max,Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+Swiss Legal SBERT (domain) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.0,1.0,0.1363,0.078,0.0936,0.2498
+Swiss Legal SBERT (domain) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.3,0.7,0.2375,0.126,0.1675,0.3626
+Swiss Legal SBERT (domain) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.5,0.5,0.2708,0.148,0.1896,0.3792
+Swiss Legal SBERT (domain) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.7,0.3,0.2561,0.14,0.1821,0.3297
+Swiss Legal SBERT (domain) — Chunk-Pool Max,RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Facts only,0.0,1.0,0.1779,0.086,0.1078,0.327
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Facts only,0.3,0.7,0.2456,0.126,0.1631,0.4156
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Facts only,0.5,0.5,0.269,0.134,0.1847,0.4151
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Facts only,0.7,0.3,0.2759,0.138,0.2046,0.4414
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 1 only,0.0,1.0,0.1054,0.05,0.0509,0.1601
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 1 only,0.3,0.7,0.158,0.076,0.0929,0.2205
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 1 only,0.5,0.5,0.186,0.076,0.1289,0.2135
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 1 only,0.7,0.3,0.1901,0.076,0.1273,0.2162
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 2 only,0.0,1.0,0.0587,0.038,0.024,0.1035
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 2 only,0.3,0.7,0.1263,0.074,0.0758,0.2056
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 2 only,0.5,0.5,0.1606,0.09,0.0999,0.2504
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 2 only,0.7,0.3,0.1858,0.108,0.1361,0.2544
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 3 only,0.0,1.0,0.0746,0.044,0.0321,0.1571
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 3 only,0.3,0.7,0.1333,0.076,0.0893,0.2131
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 3 only,0.5,0.5,0.173,0.094,0.1209,0.2801
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 3 only,0.7,0.3,0.1835,0.112,0.1248,0.2835
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issues combined (I1 | I2 | I3),0.0,1.0,0.08,0.048,0.0268,0.1525
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issues combined (I1 | I2 | I3),0.3,0.7,0.1732,0.096,0.1092,0.2845
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issues combined (I1 | I2 | I3),0.5,0.5,0.2215,0.12,0.1541,0.3062
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issues combined (I1 | I2 | I3),0.7,0.3,0.2323,0.124,0.1608,0.2818
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",RRF(Facts+I1+I2+I3),0.0,1.0,0.1225,0.066,0.0634,0.2345
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",RRF(Facts+I1+I2+I3),0.3,0.7,0.192,0.1,0.1133,0.2956
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",RRF(Facts+I1+I2+I3),0.5,0.5,0.2189,0.126,0.14,0.3023
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",RRF(Facts+I1+I2+I3),0.7,0.3,0.2126,0.122,0.1344,0.2751
+"InLegalBERT (Indian domain, no SBERT tuning) — Legacy (truncated)",RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Facts only,0.0,1.0,0.1819,0.092,0.1047,0.3181
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Facts only,0.3,0.7,0.2572,0.124,0.1896,0.3976
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Facts only,0.5,0.5,0.2604,0.134,0.1932,0.399
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Facts only,0.7,0.3,0.263,0.138,0.1976,0.4223
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 1 only,0.0,1.0,0.1484,0.064,0.0911,0.2233
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 1 only,0.3,0.7,0.2066,0.078,0.1453,0.2622
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 1 only,0.5,0.5,0.2056,0.072,0.1435,0.2472
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 1 only,0.7,0.3,0.1941,0.076,0.1325,0.2311
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 2 only,0.0,1.0,0.0836,0.056,0.0295,0.1203
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 2 only,0.3,0.7,0.163,0.09,0.1082,0.2372
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 2 only,0.5,0.5,0.1889,0.104,0.1384,0.2504
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 2 only,0.7,0.3,0.1998,0.106,0.1559,0.2692
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 3 only,0.0,1.0,0.116,0.062,0.077,0.2138
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 3 only,0.3,0.7,0.1726,0.084,0.127,0.2706
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 3 only,0.5,0.5,0.1974,0.102,0.1491,0.2943
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 3 only,0.7,0.3,0.2015,0.114,0.149,0.3039
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issues combined (I1 | I2 | I3),0.0,1.0,0.1069,0.072,0.0428,0.1973
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issues combined (I1 | I2 | I3),0.3,0.7,0.2324,0.114,0.1569,0.3251
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issues combined (I1 | I2 | I3),0.5,0.5,0.2674,0.118,0.2057,0.3693
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issues combined (I1 | I2 | I3),0.7,0.3,0.2576,0.128,0.186,0.3402
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",RRF(Facts+I1+I2+I3),0.0,1.0,0.1711,0.088,0.1179,0.2993
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",RRF(Facts+I1+I2+I3),0.3,0.7,0.2241,0.11,0.1528,0.306
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",RRF(Facts+I1+I2+I3),0.5,0.5,0.225,0.118,0.1536,0.3101
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",RRF(Facts+I1+I2+I3),0.7,0.3,0.2155,0.118,0.1441,0.2915
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Mean",RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Facts only,0.0,1.0,0.1168,0.058,0.0639,0.2148
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Facts only,0.3,0.7,0.2646,0.132,0.1877,0.4168
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Facts only,0.5,0.5,0.275,0.136,0.2105,0.427
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Facts only,0.7,0.3,0.2675,0.136,0.2013,0.4427
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 1 only,0.0,1.0,0.0808,0.03,0.0391,0.1409
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 1 only,0.3,0.7,0.1989,0.076,0.1519,0.2741
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 1 only,0.5,0.5,0.197,0.08,0.1372,0.2488
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 1 only,0.7,0.3,0.1949,0.074,0.1374,0.2431
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 2 only,0.0,1.0,0.0719,0.022,0.0349,0.1195
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 2 only,0.3,0.7,0.1804,0.1,0.1294,0.2687
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 2 only,0.5,0.5,0.2071,0.104,0.1599,0.308
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 2 only,0.7,0.3,0.1953,0.106,0.1469,0.2691
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 3 only,0.0,1.0,0.0639,0.026,0.0247,0.1058
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 3 only,0.3,0.7,0.1757,0.102,0.1206,0.2942
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 3 only,0.5,0.5,0.2161,0.122,0.173,0.3071
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 3 only,0.7,0.3,0.2081,0.118,0.1693,0.2868
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issues combined (I1 | I2 | I3),0.0,1.0,0.0724,0.028,0.0294,0.1313
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issues combined (I1 | I2 | I3),0.3,0.7,0.2208,0.118,0.1627,0.2995
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issues combined (I1 | I2 | I3),0.5,0.5,0.2539,0.126,0.1872,0.3211
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issues combined (I1 | I2 | I3),0.7,0.3,0.2559,0.124,0.1871,0.3159
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",RRF(Facts+I1+I2+I3),0.0,1.0,0.0975,0.04,0.0576,0.1924
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",RRF(Facts+I1+I2+I3),0.3,0.7,0.2384,0.12,0.1776,0.3549
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",RRF(Facts+I1+I2+I3),0.5,0.5,0.2307,0.142,0.1642,0.2972
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",RRF(Facts+I1+I2+I3),0.7,0.3,0.2128,0.122,0.141,0.2846
+"InLegalBERT (Indian domain, no SBERT tuning) — Chunk-Pool Max",RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Facts only,0.0,1.0,0.2614,0.118,0.1807,0.4057
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Facts only,0.3,0.7,0.2757,0.142,0.1977,0.4222
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Facts only,0.5,0.5,0.273,0.162,0.1868,0.3884
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Facts only,0.7,0.3,0.2612,0.154,0.1927,0.3598
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 1 only,0.0,1.0,0.1945,0.096,0.1097,0.3127
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 1 only,0.3,0.7,0.2319,0.1,0.1608,0.2984
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 1 only,0.5,0.5,0.2248,0.084,0.149,0.2823
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 1 only,0.7,0.3,0.2108,0.076,0.1385,0.2536
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 2 only,0.0,1.0,0.1451,0.082,0.0798,0.2209
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 2 only,0.3,0.7,0.1863,0.104,0.1196,0.2691
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 2 only,0.5,0.5,0.2132,0.106,0.149,0.299
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 2 only,0.7,0.3,0.2105,0.104,0.15,0.2993
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 3 only,0.0,1.0,0.1632,0.074,0.1051,0.2451
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 3 only,0.3,0.7,0.1951,0.096,0.1354,0.2758
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 3 only,0.5,0.5,0.2113,0.108,0.1587,0.2977
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 3 only,0.7,0.3,0.2104,0.114,0.1581,0.2997
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issues combined (I1 | I2 | I3),0.0,1.0,0.2089,0.104,0.1321,0.3051
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issues combined (I1 | I2 | I3),0.3,0.7,0.2575,0.118,0.1761,0.3784
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issues combined (I1 | I2 | I3),0.5,0.5,0.2895,0.128,0.2059,0.4038
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issues combined (I1 | I2 | I3),0.7,0.3,0.2707,0.122,0.1886,0.3442
+Mine_Finetuned_Indian_Legal — Legacy (truncated),Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+Mine_Finetuned_Indian_Legal — Legacy (truncated),RRF(Facts+I1+I2+I3),0.0,1.0,0.237,0.13,0.1557,0.3439
+Mine_Finetuned_Indian_Legal — Legacy (truncated),RRF(Facts+I1+I2+I3),0.3,0.7,0.2958,0.148,0.2021,0.4323
+Mine_Finetuned_Indian_Legal — Legacy (truncated),RRF(Facts+I1+I2+I3),0.5,0.5,0.2746,0.138,0.1851,0.3887
+Mine_Finetuned_Indian_Legal — Legacy (truncated),RRF(Facts+I1+I2+I3),0.7,0.3,0.2432,0.128,0.1527,0.3265
+Mine_Finetuned_Indian_Legal — Legacy (truncated),RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Facts only,0.0,1.0,0.2966,0.158,0.2257,0.4048
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Facts only,0.3,0.7,0.3097,0.162,0.2375,0.4231
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Facts only,0.5,0.5,0.2973,0.158,0.226,0.4057
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Facts only,0.7,0.3,0.2882,0.162,0.2242,0.4086
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 1 only,0.0,1.0,0.221,0.096,0.142,0.3068
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 1 only,0.3,0.7,0.2334,0.094,0.1722,0.2874
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 1 only,0.5,0.5,0.2207,0.09,0.1495,0.258
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 1 only,0.7,0.3,0.2072,0.086,0.1444,0.2458
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 2 only,0.0,1.0,0.222,0.096,0.1593,0.2854
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 2 only,0.3,0.7,0.2291,0.11,0.1744,0.2859
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 2 only,0.5,0.5,0.2191,0.108,0.1651,0.2969
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 2 only,0.7,0.3,0.2055,0.106,0.1498,0.2875
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 3 only,0.0,1.0,0.2109,0.11,0.1466,0.2939
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 3 only,0.3,0.7,0.2263,0.112,0.1705,0.2969
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 3 only,0.5,0.5,0.2245,0.12,0.167,0.2845
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 3 only,0.7,0.3,0.2174,0.124,0.1641,0.2849
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.0,1.0,0.2475,0.116,0.1738,0.3456
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.3,0.7,0.2931,0.138,0.2242,0.3782
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.5,0.5,0.2918,0.132,0.2216,0.348
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),0.7,0.3,0.2818,0.132,0.2107,0.3357
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.0,1.0,0.2355,0.13,0.157,0.3451
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.3,0.7,0.245,0.134,0.1552,0.3439
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.5,0.5,0.2357,0.128,0.1543,0.2973
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),0.7,0.3,0.2363,0.128,0.1605,0.3055
+Mine_Finetuned_Indian_Legal — Chunk-Pool Mean,RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Facts only,0.0,1.0,0.2548,0.146,0.1617,0.3799
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Facts only,0.3,0.7,0.2954,0.152,0.2276,0.4364
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Facts only,0.5,0.5,0.2835,0.15,0.2176,0.4265
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Facts only,0.7,0.3,0.2768,0.15,0.2114,0.4438
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Facts only,1.0,0.0,0.2645,0.136,0.2027,0.4335
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 1 only,0.0,1.0,0.2009,0.086,0.1393,0.277
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 1 only,0.3,0.7,0.2419,0.094,0.1728,0.3497
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 1 only,0.5,0.5,0.2388,0.098,0.1638,0.3289
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 1 only,0.7,0.3,0.2186,0.084,0.1567,0.283
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 1 only,1.0,0.0,0.1937,0.074,0.1398,0.2392
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 2 only,0.0,1.0,0.207,0.106,0.1368,0.2645
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 2 only,0.3,0.7,0.2272,0.112,0.1707,0.2827
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 2 only,0.5,0.5,0.224,0.11,0.1611,0.3193
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 2 only,0.7,0.3,0.2191,0.11,0.1656,0.3161
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 2 only,1.0,0.0,0.1868,0.106,0.1465,0.2592
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 3 only,0.0,1.0,0.1919,0.11,0.124,0.2655
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 3 only,0.3,0.7,0.211,0.126,0.1438,0.2958
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 3 only,0.5,0.5,0.2199,0.124,0.1581,0.2966
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 3 only,0.7,0.3,0.22,0.12,0.1742,0.2948
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issue 3 only,1.0,0.0,0.1984,0.112,0.1493,0.2954
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.0,1.0,0.2481,0.124,0.18,0.3465
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.3,0.7,0.2939,0.14,0.2242,0.3996
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.5,0.5,0.2899,0.144,0.2228,0.3571
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issues combined (I1 | I2 | I3),0.7,0.3,0.2718,0.136,0.2024,0.3185
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,Issues combined (I1 | I2 | I3),1.0,0.0,0.2488,0.126,0.1795,0.3211
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.0,1.0,0.2409,0.136,0.1569,0.3491
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.3,0.7,0.2565,0.154,0.1669,0.3373
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.5,0.5,0.2558,0.138,0.1777,0.3433
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,RRF(Facts+I1+I2+I3),0.7,0.3,0.2348,0.13,0.1562,0.3079
+Mine_Finetuned_Indian_Legal — Chunk-Pool Max,RRF(Facts+I1+I2+I3),1.0,0.0,0.2092,0.116,0.1405,0.2884

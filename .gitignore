@@ -23,4 +23,8 @@ data/models/*
 *.safetensors
 *.bin
 *.zip
+
+# FIRE/AILA inputs (not redistributed)
+data/fire_aila/*
+!data/fire_aila/pool_186_judgment_ids.txt
 *:Zone.Identifier
